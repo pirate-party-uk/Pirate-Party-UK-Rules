@@ -2,7 +2,7 @@
 
 ## Aims and Objectives
 
-The Pirate Party aims to promote and defend civil liberties, civil rights, and privacy in the digital age. To defend Human Rights, with LGBTQ+ rights and rights for other marginalised groups (POC, those with mental health issues) being an integral and necessary requirement for human freedom. And to implement evidence-based policy-making and participatory democracy. 
+The Pirate Party aims to promote and defend civil liberties, civil rights, diversity of thought,and privacy in the digital age. To defend Human Rights, with LGBTQ+ rights and rights for other marginalised groups (POC, those with mental health issues) being an integral and necessary requirement for human freedom. And to implement evidence-based policy-making and participatory democracy. 
 
 
 ## Membership
@@ -136,7 +136,7 @@ Being forced out to step down for more elected positions within the party.
 1. The party is committed to being open and transparent with its members and the public.
 2. Party leaders and officers will make a good faith effort to communicate important decisions and developments to members in a timely and clear manner.
 3. Party leaders and officers will make a good faith effort to engage with members and seek their input on matters of importance.
-4. The party will maintain accurate and up-to-date records of its finances, and will make these records available to members upon request.
+4. The party will maintain accurate and up-to-date records of its finances.
 
 ## Volunteerism
 
