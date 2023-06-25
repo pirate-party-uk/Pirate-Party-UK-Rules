@@ -154,3 +154,24 @@ This Constitution represents the fundamental principles and values of the Pirate
 (3) Activities
 The Party shall take part in democratic electoral processes. It intends to contest any Supranational election the UK is party to, Westminster parliamentary elections, local elections, and other elections as deemed appropriate . In the furtherance of its aims, the Party may raise funds and invite and receive contributions within the limits established by electoral law, invest any monies of the Party not immediately required, in accordance with the Trustee Act of 1925, and do all such other lawful things as are necessary for the attainment of the Party’s aims.
 
+## Code of Conduct Updates
+
+### Section 1: NEC Authority
+
+The NEC shall have the authority to update and amend the Party's Code of Conduct as necessary, in consultation with Party members.
+
+### Section 2: Review and Consultation
+
+When updating the Code of Conduct, the NEC shall review the existing provisions, consider feedback from Party members, and seek input from relevant experts or stakeholders. The NEC shall ensure that any proposed changes align with the Party's values and aims.
+
+### Section 3: Notification and Adoption
+
+Once the NEC has finalized the proposed changes to the Code of Conduct, they shall provide notice to Party members, outlining the specific amendments and the rationale behind each change. Party members shall be given a reasonable period to review and provide feedback on the proposed updates.
+
+### Section 4: Approval and Implementation
+
+After considering the feedback received from Party members, the NEC shall determine whether to adopt the proposed changes to the Code of Conduct. If approved, the NEC shall update the Code of Conduct accordingly and communicate the changes to all Party members. The updated Code of Conduct shall take effect immediately upon adoption.
+
+### Section 5: Appeal and Feedback
+
+Party members who have concerns or suggestions regarding the updated Code of Conduct may appeal to the NEC within a designated period after the changes are communicated. The NEC shall review the appeals and consider any necessary adjustments or clarifications.
