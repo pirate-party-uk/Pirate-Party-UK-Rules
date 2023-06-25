@@ -158,28 +158,35 @@ The Party shall take part in democratic electoral processes. It intends to conte
 
 ### Section 1: Proposal
 
-Any member of the Party may propose amendments to the Party's Constitution. Proposals can be submitted either through a written document or via a designated Git repository, such as GitHub, by creating a pull request with the proposed changes clearly outlined and the reasons for the amendment provided.
+Any member of the Party may propose amendments to the Party's Constitution. Proposals can be submitted in writing or through a designated Git repository, such as GitHub, by creating a pull request with the proposed changes clearly outlined and the reasons for the amendment provided.
 
 ### Section 2: Review and Approval
 
-The NEC shall review all proposed amendments submitted through the designated Git repository. The NEC may seek input from Party members, conduct discussions and debates on the proposed changes, and consult with legal experts if necessary. The NEC shall have the authority to merge or reject proposed changes based on their suitability and alignment with the Party's aims and objectives.
+2.1 The National Executive Committee (NEC) shall review all proposed amendments submitted through the designated Git repository or in writing. The NEC may seek input from Party members, conduct discussions and debates on the proposed changes, and consult with legal experts if necessary.
+
+2.2 The NEC shall have the authority to accept, modify, or reject proposed amendments based on their suitability and alignment with the Party's aims and objectives. The NEC's decision on the proposed amendments shall be final.
 
 ### Section 3: Party Membership Review
 
-After the NEC has reviewed and approved proposed amendments, the changes shall be made available to the Party membership for review. The approved amendments, along with the rationale behind each change, shall be shared through the Party's official communication channels, including the Party's website and social media platforms.
+3.1 After the NEC has reviewed and made decisions on proposed amendments, the changes shall be made available to the Party membership for review. The approved amendments, along with the rationale behind each change, shall be shared through a designated Git repository, such as GitHub, the Party's official Discord server, or other communication channels determined by the Party.
 
-### Section 4: Feedback and Discussion
+3.2 Party members shall have a reasonable period to review the proposed amendments. The Party may encourage members to participate in discussions through the designated Git repository, the Party's official Discord server, or other communication channels, allowing for an open and transparent exchange of views.
 
-Party members shall have a reasonable period to review and provide feedback on the proposed amendments. The Party may encourage members to participate in discussions through the designated Git repository or other communication channels, allowing for an open and transparent exchange of views.
+### Section 4: Approval Process
 
-### Section 5: Approval Process
+4.1 The NEC shall have the authority to approve the proposed amendments after the review period, taking into account any feedback received from Party members.
 
-Following the review and discussion period, the proposed amendments shall be subject to a formal approval process. Party members may indicate their support or opposition to each amendment through a designated voting system. The NEC shall determine the duration of the voting period and ensure that the voting process is fair, secure, and accessible to all members.
+4.2 Once the NEC approves the proposed amendments, they shall be considered ratified and incorporated into the Party's Constitution.
 
-### Section 6: Approval Threshold
+4.3 The NEC shall update the Constitution accordingly, reflecting the approved amendments.
 
-For a proposed constitutional amendment to be approved, it must receive a two-thirds majority vote from the participating Party members.
+### Section 5: Emergency Amendments
 
-### Section 7: Ratification
+5.1 In cases of a constitutional crisis or other emergencies where immediate action is necessary to ensure the Party's stability and functioning, the NEC, acting autonomously, may propose emergency amendments to the Constitution.
 
-Once a proposed amendment has been approved by the Party membership, it shall be considered ratified and incorporated into the Party's Constitution. The NEC shall update the Constitution accordingly, and the revised version of the Constitution shall be made available to all Party members through the Party's official communication channels.
+5.2 Emergency amendments shall be limited to addressing the crisis or emergency situation and shall be temporary in nature.
+
+5.3 The NEC shall promptly communicate the emergency amendments to the Party membership, providing a clear explanation of the crisis or emergency situation that necessitated the amendments.
+
+5.4 Emergency amendments proposed by the NEC shall be considered ratified and incorporated into the Party's Constitution, without requiring additional approval from the Party membership.
+
