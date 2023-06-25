@@ -154,3 +154,32 @@ This Constitution represents the fundamental principles and values of the Pirate
 (3) Activities
 The Party shall take part in democratic electoral processes. It intends to contest any Supranational election the UK is party to, Westminster parliamentary elections, local elections, and other elections as deemed appropriate . In the furtherance of its aims, the Party may raise funds and invite and receive contributions within the limits established by electoral law, invest any monies of the Party not immediately required, in accordance with the Trustee Act of 1925, and do all such other lawful things as are necessary for the attainment of the Party’s aims.
 
+## Amendment of the Constitution
+
+### Section 1: Proposal
+
+Any member of the Party may propose amendments to the Party's Constitution. Proposals can be submitted either through a written document or via a designated Git repository, such as GitHub, by creating a pull request with the proposed changes clearly outlined and the reasons for the amendment provided.
+
+### Section 2: Review and Approval
+
+The NEC shall review all proposed amendments submitted through the designated Git repository. The NEC may seek input from Party members, conduct discussions and debates on the proposed changes, and consult with legal experts if necessary. The NEC shall have the authority to merge or reject proposed changes based on their suitability and alignment with the Party's aims and objectives.
+
+### Section 3: Party Membership Review
+
+After the NEC has reviewed and approved proposed amendments, the changes shall be made available to the Party membership for review. The approved amendments, along with the rationale behind each change, shall be shared through the Party's official communication channels, including the Party's website and social media platforms.
+
+### Section 4: Feedback and Discussion
+
+Party members shall have a reasonable period to review and provide feedback on the proposed amendments. The Party may encourage members to participate in discussions through the designated Git repository or other communication channels, allowing for an open and transparent exchange of views.
+
+### Section 5: Approval Process
+
+Following the review and discussion period, the proposed amendments shall be subject to a formal approval process. Party members may indicate their support or opposition to each amendment through a designated voting system. The NEC shall determine the duration of the voting period and ensure that the voting process is fair, secure, and accessible to all members.
+
+### Section 6: Approval Threshold
+
+For a proposed constitutional amendment to be approved, it must receive a two-thirds majority vote from the participating Party members.
+
+### Section 7: Ratification
+
+Once a proposed amendment has been approved by the Party membership, it shall be considered ratified and incorporated into the Party's Constitution. The NEC shall update the Constitution accordingly, and the revised version of the Constitution shall be made available to all Party members through the Party's official communication channels.
