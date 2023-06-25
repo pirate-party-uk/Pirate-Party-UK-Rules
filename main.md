@@ -154,3 +154,32 @@ This Constitution represents the fundamental principles and values of the Pirate
 (3) Activities
 The Party shall take part in democratic electoral processes. It intends to contest any Supranational election the UK is party to, Westminster parliamentary elections, local elections, and other elections as deemed appropriate . In the furtherance of its aims, the Party may raise funds and invite and receive contributions within the limits established by electoral law, invest any monies of the Party not immediately required, in accordance with the Trustee Act of 1925, and do all such other lawful things as are necessary for the attainment of the Party’s aims.
 
+
+
+
+## NEC and Officers Missing in Action
+
+### Section 1: Absence and Inability to Fulfill Duties
+
+If a member of the NEC or an officer is absent from their duties for an extended period without valid reason or is unable to fulfill their responsibilities due to unforeseen circumstances such as illness or incapacitation, the following procedures shall apply:
+
+### Section 2: Temporary Replacement
+
+1. In the event of an NEC member's absence or inability to fulfill their duties, the remaining NEC members shall appoint a temporary replacement from among themselves or other eligible Party members.
+2. In the event of an officer's absence or inability to fulfill their duties, the NEC shall appoint a temporary replacement from among eligible Party members.
+
+### Section 3: Timeframe and Communication
+
+1. The temporary replacement shall serve until the absent or incapacitated member is able to resume their duties or until the next regular election, whichever comes first.
+2. The NEC shall communicate the temporary replacement to Party members and provide updates on the situation as appropriate.
+
+### Section 4: Resignation or Removal
+
+1. If an NEC member or officer is unable to resume their duties within a reasonable timeframe or decides to resign, a by-election or appointment process shall be initiated to fill the vacancy.
+2. The procedures for by-elections or appointments shall follow the relevant sections outlined in this constitution.
+
+### Section 5: Oversight and Accountability
+
+The NEC shall be responsible for ensuring that measures are in place to prevent and address instances of prolonged absence or inability to fulfill duties. This may include implementing policies for leave of absence, succession planning, or contingency arrangements.
+
+
