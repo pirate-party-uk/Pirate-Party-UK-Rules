@@ -226,6 +226,26 @@ The Party shall take part in democratic electoral processes. It intends to conte
 6.6 The late member shall have the right to express their views, provide input, and participate in the ongoing discussion, regardless of the meeting's scope or the decisions that may be deferred.
 
 6.7 It is the responsibility of the meeting chair or facilitator, in coordination with the NEC, to ensure that the late member is given a fair opportunity to contribute to the discussion and decision-making process, considering the meeting's revised scope.
+### Section 7: Remote Participation
+
+7.1 The Party recognizes the importance of remote participation to promote inclusivity and enable broader member engagement in Party activities and decision-making processes.
+
+7.2 Remote participation may be allowed in Party meetings, including but not limited to NEC meetings, National Conferences, and branch meetings, through appropriate technological means such as video conferencing or other remote communication tools.
+
+7.3 The Party shall establish guidelines and procedures to facilitate remote participation, ensuring that remote participants have equal opportunities to express their views, participate in discussions, and contribute to decision-making processes.
+
+7.4 Remote participants shall be subject to the same rules and responsibilities as in-person attendees, including adherence to the Party's Constitution, Code of Conduct, and meeting protocols.
+
+7.5 The Party shall ensure that remote participants have access to necessary meeting materials, documents, and relevant information in a timely manner, allowing them to effectively engage in discussions and decision-making processes.
+
+7.6 The Party may implement necessary security measures and authentication protocols to ensure the integrity and confidentiality of remote meetings and prevent unauthorized access.
+
+7.7 The Party shall periodically review and evaluate the effectiveness of remote participation mechanisms, making necessary adjustments to improve accessibility and inclusivity.
+
+7.8 The NEC shall be responsible for overseeing and implementing the provisions related to remote participation, ensuring their consistent application across Party meetings.
+
+7.9 The Party shall strive to create an inclusive environment that values and respects the contributions of both in-person and remote participants, fostering meaningful engagement and democratic decision-making.
+
 
 6.8 The NEC shall ensure that the procedures for handling late member joining, quorum, and meeting scope are clearly communicated to all Party members, fostering transparency and participation in Party meetings.
 
