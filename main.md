@@ -52,6 +52,12 @@ The NEC shall be the governing body of the Party and shall consist of at least t
 - Developing and implementing policies.
 - Managing the Party's finances.
 - Overseeing the conduct of Party elections.
+- Updating and maintaining the Party's Code of Conduct.
+- Reviewing and approving proposed amendments to the Party's Constitution.
+- Conducting consultations with Party members on important matters.
+- Representing the Party in external communications and engagements.
+- Ensuring compliance with legal and regulatory requirements.
+- Resolving disputes and disciplinary matters within the Party.
 
 If at any point, the NEC ceases to exist or is not yet formed then the responsibilities will be given to the party officers. Until such time as the NEC is elected, the leader will take.
 
