@@ -63,7 +63,7 @@ If at any point, the NEC ceases to exist or is not yet formed then the responsib
 
 ### Section 2: Officers
 
-Officers of the Party shall consist of the Leader, the Treasurer, and nominating. The Leader shall be responsible for providing strategic leadership to the Party, while the Treasurer shall be responsible for managing the Party's finances. Nominees appointed by the NEC shall have such duties as assigned by the NEC.
+Officers of the Party shall consist of the Leader, the Treasurer, and nominating and other officers. The Leader shall be responsible for providing strategic leadership to the Party, while the Treasurer shall be responsible for managing the Party's finances. Nominees appointed by the other officers shall have such duties as assigned by the NEC.
 
 #### Term limits
 
