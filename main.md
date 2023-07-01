@@ -1,156 +1,134 @@
-# Pirate Party UK Constitution
+# Constitution of the Pirate Party UK
 
-## Aims and Objectives
+## (1) NAME
+The official name of the organisation (“the Party”) shall be “Pirate Party UK” (“PPUK”).
 
-The Pirate Party aims to promote and defend civil liberties, civil rights, diversity of thought,and privacy in the digital age. To defend Human Rights, with LGBTQ+ rights and rights for other marginalised groups (POC, those with mental health issues) being an integral and necessary requirement for human freedom. And to implement evidence-based policy-making and participatory democracy. 
+## (2) AIMS
+The Pirate Party UK (PPUK) is dedicated to the reform of laws in the United Kingdom in accordance with its Principles.
 
+The Party operates with the consent of its Members and upholds the following Principles:
+1. Defend Human Rights: The Pirate Party UK recognizes that the protection of human rights is essential for ensuring freedom and equality for all individuals, including LGBTQ+ rights and the rights of marginalized groups such as people of colour and those with mental health issues.
+2. Knowledge, Ideas, and Culture: The Party believes that society thrives through the sharing of knowledge, ideas, and culture. It advocates for freedom of thought and expression, protected by the rule of law.
+3. Human Dignity and Participation: The Pirate Party UK upholds the inviolable nature of human dignity. Every person has the right to life, freedom of thought, self-determination, and meaningful participation in society.
+4. Equality and Transparency: The Party promotes equality under the law and strives for inclusive governance. It emphasizes that everyone should have a voice in the structure and processes of governance and the right to access information about decisions made on their behalf.
+5. Respect for Privacy and Relationships: The Pirate Party UK values the importance of privacy and family life. It advocates for the respect of individuals' private and family lives by both the government and society, emphasizing freedom of choice in associations and relationships.
+6. Access to Justice and Essential Services: In order for individuals to fully participate in society, the Party believes that everyone should have access to justice, education, and essential services and infrastructure necessary for a fulfilling life.
+7. Society's Security and Responsibility: The Pirate Party UK acknowledges that ensuring the security of society is a fundamental responsibility of the government. It advocates for the provision of defense mechanisms, a just legal system, and the necessary services and infrastructure to meet the needs of the population.
+8. Evidence-Based Decision-Making and Democracy: The Party is committed to making informed decisions based on evidence. It operates with the consent of society through democratic processes and aims to act in the best interests of all.
 
-## Membership
+This Constitution outlines the fundamental principles and aims of the Pirate Party UK and guides its actions in pursuing its mission to reform UK laws in alignment with these principles.
 
-### Section 1: Membership Eligibility
+## (3) ACTIVITIES
+The Party shall take part in democratic electoral processes. It intends to contest any Supranational election the UK is party to, Westminster parliamentary elections, local elections, and other elections as deemed appropriate.
 
-Membership in the Party is open to any individual who:
+In the furtherance of its aims, the Party may:
+- Raise funds and invite and receive contributions within limits established by electoral law.
+- Invest any monies of the Party not immediately required, in accordance with the Trustee Act of 1925.
+- Do all such other lawful things as are necessary for the attainment of the Party’s aims.
 
-- Supports the Party's aims and objectives.
-- Agrees to abide by the Party's Constitution and Code of Conduct.
-- Pays any required membership dues.
+### Branches
+The Party may establish branches at the local or regional level, subject to approval by the NEC. Branches shall be responsible for organizing local activities and promoting the Party's aims and objectives within their respective areas.
 
-### Section 2: Good Standing
+### Volunteerism
+The party relies on the volunteer efforts of its members to achieve its goals. Members are encouraged to volunteer their time and talents in support of the party's activities and campaigns. The party will make a good-faith effort to provide opportunities for members to engage in meaningful volunteer work.
 
-All members shall be considered in good standing, except for those who:
+### Communication and Transparency
+The party is committed to being open and transparent with its members and the public. Party leaders and officers will make a good-faith effort to communicate important decisions and developments to members in a timely and clear manner. Party leaders and officers will make a good-faith effort to engage with members and seek their input on matters of importance. The party will maintain accurate and up-to-date records of its finances.
 
-- Have had their membership revoked by the NEC.
-- Are in arrears on their membership dues.
+## (4) MEMBERSHIP
+Membership is open to:
+- Citizens of the United Kingdom
+- Resident Foreign Nationals
+- Those who possess a right to vote on behalf of the United Kingdom in Local, General, or Supranational elections
+- Other Foreign Nationals at the discretion of the National Executive Committee (“NEC”)
 
-Members in bad standing may not participate in Party processes, including but not limited to, voting in elections or proposing policy changes.
+Members shall not share membership with any organization that has been declared to be incompatible with membership of the Party by the NEC.
 
-### Section 3: Code of Conduct
+Members must pay membership fees as set by the NEC, as described in Section 5.
 
-All members shall be required to abide by the Party's Code of Conduct, as adopted by the NEC.
+Members shall not act in a manner that brings the party into disrepute or is likely to bring the party into disrepute. If a member is suspected of behaving in such a fashion, they will be asked to explain their actions to a disciplinary committee formed by the NEC as per the arbitration and disciplinary rules of Section 10.
 
-### Section 4: Membership Dues
+Members appointed or elected to a position may be relieved of their title and responsibilities should the NEC find them absent for a period exceeding 28 days without prior notice.
 
-Membership dues shall be determined by the NEC and reviewed annually. Dues shall be payable annually or as otherwise specified by the NEC.
+## (5) THE NATIONAL EXECUTIVE COMMITTEE
+The NEC shall comprise the Leader, Treasurer, nominating officers, and other officers with full voting rights and specific roles and responsibilities as outlined in the Code of Practice of the NEC.
 
-### Section 5: Termination of Membership
+The NEC can vote to appoint or remove non-voting members to the NEC as needed.
 
-Membership may be terminated by the NEC for just cause, including but not limited to:
+The working practices of the NEC shall be outlined in a separate Code of Practice to be maintained and published to members by the NEC.
 
-- Violation of the Party's Constitution or Code of Conduct.
-- Failure to pay membership dues.
-- Conduct deemed detrimental to the Party's interests.
+Changes to the Code of Practice of the NEC shall be approved by a majority of the voting members of the NEC.
 
-Members whose membership has been terminated may appeal the decision to the NEC within 30 days of receiving notice of termination. The decision of the NEC on the appeal shall be final.
+Elected officers’ membership of the NEC shall expire if their role is removed from the Code of Practice of the NEC.
 
-## Party Structure
+Changes to the Code of Practice of the NEC shall come into force one week after the NEC officially notifies the Party of the change.
 
-### Section 1: National Executive Committee (NEC)
+## (6) FINANCIAL OBLIGATIONS
+The NEC shall designate a voting NEC member who is responsible to the party for the management of the party’s finances.
 
-The NEC shall be the governing body of the Party and shall consist of at least three officers, including a Leader and a Treasurer, and any nominees appointed by the NEC. The NEC shall be responsible for the day-to-day management of the Party, including but not limited to:
+## (7) DISSOLUTION OF THE PARTY
+The party may be dissolved by a simple majority of members making clear their wish to dissolve the party. Any assets belonging to the party at the time of dissolution will be donated to a registered charity of the NEC’s choosing.
 
-- Setting the Party's strategic direction and priorities.
-- Developing and implementing policies.
-- Managing the Party's finances.
-- Overseeing the conduct of Party elections.
+## (9) ELECTIONS
+### Election Types
+All elected national positions shall be elected using the ERS97 STV process.
 
-If at any point, the NEC ceases to exist or is not yet formed then the responsibilities will be given to the party officers. Until such time as the NEC is elected, the leader will take.
+Elections for voting NEC members shall return a single winner.
 
-### Section 2: Officers
+### Nominations
+When an election is due, the NEC will announce the opening of nominations. Upon opening, the NEC will publish the date and time that nominations close. The duration of the nomination period must be no less than 14 days and no more than 31 days. This duration may not be altered except as defined below.
 
-Officers of the Party shall consist of the Leader, the Treasurer, and nominating. The Leader shall be responsible for providing strategic leadership to the Party, while the Treasurer shall be responsible for managing the Party's finances. Nominees appointed by the NEC shall have such duties as assigned by the NEC.
+Nominations will remain open indefinitely if no nominations are received. Should a nomination occur after this period, nominations must remain open for a minimum of 14 days from the date of a nomination being made.
 
-#### Term limits
+Open nominations must be announced by the NEC at least every 26 weeks.
 
-Officers elected by the party leader should have a maximum length of service of 6 months. Officers elected by members of the party should have a maximum term limit of 12 months.
+Unless constitutionally indicated otherwise, members may nominate themselves as a candidate for election.
 
-#### Right of Recall
+Nominated candidates must be Party members in Good Standing (as defined in Section 10).
 
-A motion to start immediate re-elections can be proposed by any Officer, and they would be held if > 75% of party members requested it.
+### Seconding
+All elected national positions require that candidates be seconded by a Party member in Good Standing.
 
-### Section 3: National Conference
+Members may only second one candidate per position. Members may not second any candidates in any election they are contesting.
 
-The Party shall hold a National Conference at least once every two years. The Conference shall be the Party's highest decision-making body, and shall be responsible for, among other things:
+### Campaigning
+Campaigning opens to coincide with the closing of nominations. Should the opening of campaigning be delayed, this additional time is to be considered an extension to the nomination period. Campaigning must remain open for no less than 7 days and normally no more than 31 days.
 
-- Electing members of the NEC.
-- Approving changes to the Party's Constitution and Code of Conduct.
-- Setting the Party's strategic direction and priorities.
+### Voting
+Voting must open to coincide with the closing of campaigning. Should the opening of voting be delayed, this additional time is to be considered an extension to the campaigning period. Voting must remain open for no less than 7 days and normally no more than 31 days.
 
-### Section 4: Branches
+### Exclusions
+A member is excluded from standing for election and holding an elected position if they are not in Good Standing (as defined in Section 10).
 
-The Party may establish branches at the local or regional level, subject to approval by the NEC. Branches shall be responsible for organising local activities and promoting the Party's aims and objectives within their respective areas.
+Some elected positions exclude those who already hold another elected position.
 
-## Elections and Candidates
+### Election Terms
+Elections must be held no less frequently than every 25 months for all positions on the NEC, irrespective of how long each officer has been in post.
 
-### Section 1: Voting System
+### Electorate
+All party members in Good Standing (as defined in Section 10) are eligible to vote in all elections unless otherwise specified in this constitution.
 
-The Party shall use the Single Transferable Vote (STV) system for all Party elections.
+### Extraordinary Elections
+When an elected position is vacant outside of the normal election terms, an election process for the position will be held following the rules in Section 9. These extraordinary procedures should ordinarily begin within 30 days of the position becoming vacant.
 
-### Section 2: Candidate Selection
+### Election Procedures
+The NEC is responsible for making sure all election and vote procedures are followed.
 
-Candidates for Party elections shall be selected through a democratic process, as determined by the NEC.
+In single-winner ERS97 STV elections, an additional “Re-Open Nominations” candidate will be included. If the ‘Re-Open Nominations’ candidate is elected, the election process will be immediately restarted.
 
-### Section 3: Endorsements
+In multiple winner ERS97 STV elections, an additional question will be included on the ballot paper: “Re-Open Nominations?”, with “Yes” or “No” as answers. If a simple majority of voters vote “Yes”, the election process will be immediately restarted.
 
-The Party may endorse candidates for public office who share the Party's aims and objectives, as determined by the NEC.
+## (10) ARBITRATION AND DISCIPLINE
+### Incompatible Memberships
+If a member of the Party subsequently joins an organization that the Board declares to be incompatible with membership of the Party, or if the member is found to be a member of such an organization, then the Board may revoke their membership of the Party without return of membership fees.
 
-## Funding
+### Votes of No Confidence
+A vote of no confidence in any elected official will be triggered when either 50% or more of the fully paid-up membership or over 50% of the NEC make their desire for a vote of no confidence known to the NEC.
 
-### Section 1: Funding Sources
+When a vote of no confidence has been triggered, the Board will arrange for a vote of party members to ascertain the confidence of the electorate in the elected official, which will conclude within at most 28 days. The officer will be dismissed if a simple majority of eligible members who take part in that vote, vote in favor of dismissal, subject to a quorum of 10% of eligible members.
 
-The Party may receive funding from any legal source, including but not limited to:
+### Voting Eligibility for Votes of No Confidence
+The eligibility of a member to vote in a particular vote of no confidence will be based on whether that member would be eligible to vote for the elected position as per rules in Section 9.
 
-- Membership dues.
-- Donations.
-- Fundraising activities.
-- other deemed acceptable by their NEC 
-
-Certainly, here is the revised Code of Conduct without point seven:
-
-## Code of Conduct
-
-1. All members of the party are expected to behave in a respectful and ethical manner towards other members, non-members, and the wider community.
-2. Discrimination or harassment of any kind will not be tolerated, and may result in disciplinary action.
-3. Members are expected to keep an open mind when discussing party policies and be receptive to new ideas and constructive criticism.
-4. Members are expected to adhere to the principles and values outlined in the party's platform, and work towards achieving the party's goals.
-5. Members are encouraged to seek out and consider a variety of perspectives on issues before forming opinions or making decisions.
-7. Members are encouraged to engage in civil and respectful dialogue, even when there are disagreements.
-8. Party forums and social media accounts will be moderated to ensure that discussion remains respectful and on-topic, and to remove posts or comments that contain misinformation or violate the party's code of conduct.
-9. The party will avoid amplifying or promoting conspiracy theories or other fringe ideas that lack credible evidence.
-10. Members are encouraged to report any instances of misinformation or conspiracy theories being promoted within the party, and to work with leadership to address these issues in a constructive manner.
-A fringe and conspiracy idea will be determined by the following criteria
-Lack of credible evidence for my credible source 
-Empirical data is the quality of the data supporting the argument and the data itself not being misrepresented.
-Rationality and logical coherence of claims may not have flawed reasoning, logical fallacies, or unfounded assumptions.
-11. Any member found to be in violation of this code of conduct may be subject to disciplinary action, up to and including revocation of membership.
-This might include but is not limited to:
-Being banned from the party discord and events.
-Being banned from taking part in election campaigns and running as a candidate.
-Being banned from being part of recalling roles 
-Being banned from communications on behalf of the party.
-Being banned from voting and running as a candidate in internal elections.
-Being banned from running as a candidate in a nom-internal election under the party's name.
-Being removed from the party entirely.
-Being forced out to step down for more elected positions within the party.
-## Communication and Transparency
-
-1. The party is committed to being open and transparent with its members and the public.
-2. Party leaders and officers will make a good faith effort to communicate important decisions and developments to members in a timely and clear manner.
-3. Party leaders and officers will make a good faith effort to engage with members and seek their input on matters of importance.
-4. The party will maintain accurate and up-to-date records of its finances.
-
-## Volunteerism
-
-1. The party relies on the volunteer efforts of its members to achieve its goals.
-2. Members are encouraged to volunteer their time and talents in support of the party's activities and campaigns.
-3. The party will make a good-faith effort to provide opportunities for members to engage in meaningful volunteer work.
-
-## Dissolution
-
-1. In the event that the party is dissolved, any remaining assets will be distributed in accordance with the party's bylaws and applicable laws.
-2. Any assets that cannot be distributed will be donated to a charitable organisation or organisations approved by the party's leadership.
-
-This Constitution represents the fundamental principles and values of the Pirate Party UK. It is intended to guide the party's actions and decisions and to ensure that the party remains committed to its mission of promoting freedom, democracy, and transparency in government.
-
-(3) Activities
-The Party shall take part in democratic electoral processes. It intends to contest any Supranational election the UK is party to, Westminster parliamentary elections, local elections, and other elections as deemed appropriate . In the furtherance of its aims, the Party may raise funds and invite and receive contributions within the limits established by electoral law, invest any monies of the Party not immediately required, in accordance with the Trustee Act of 1925, and do all such other lawful things as are necessary for the attainment of the Party’s aims.
-
+### Good Standing
+A member is regarded as being in Good Standing if they are a paid-up member and have not had their position of Good Standing stripped from them.
