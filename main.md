@@ -7,7 +7,7 @@ The official name of the organisation (“the Party”) shall be “Pirate Party
 The Pirate Party UK (PPUK) is dedicated to the reform of laws in the United Kingdom in accordance with its Principles.
 
 The Party operates with the consent of its Members and upholds the following Principles:
-1. Defend Human Rights: The Pirate Party UK recognizes that the protection of human rights is essential for ensuring freedom and equality for all individuals, including LGBTQ+ rights and the rights of marginalized groups such as people of colour and those with mental health issues.
+1. Defend Human Rights: The Pirate Party UK recognises that the protection of human rights is essential for ensuring freedom and equality for all individuals, including all protected characteristics as listed in the Equality Act 2010 (such as LGBTQ+ rights and the rights of marginalized groups such as people of colour and those with mental health issues).
 2. Knowledge, Ideas, and Culture: The Party believes that society thrives through the sharing of knowledge, ideas, and culture. It advocates for freedom of thought and expression, protected by the rule of law.
 3. Human Dignity and Participation: The Pirate Party UK upholds the inviolable nature of human dignity. Every person has the right to life, freedom of thought, self-determination, and meaningful participation in society.
 4. Equality and Transparency: The Party promotes equality under the law and strives for inclusive governance. It emphasizes that everyone should have a voice in the structure and processes of governance and the right to access information about decisions made on their behalf.
@@ -73,8 +73,6 @@ The party may be dissolved by a simple majority of members making clear their wi
 ### Election Types
 All elected national positions shall be elected using the ERS97 STV process.
 
-Elections for voting NEC members shall return a single winner.
-
 ### Nominations
 When an election is due, the NEC will announce the opening of nominations. Upon opening, the NEC will publish the date and time that nominations close. The duration of the nomination period must be no less than 14 days and no more than 31 days. This duration may not be altered except as defined below.
 
@@ -114,9 +112,11 @@ When an elected position is vacant outside of the normal election terms, an elec
 ### Election Procedures
 The NEC is responsible for making sure all election and vote procedures are followed.
 
-In single-winner ERS97 STV elections, an additional “Re-Open Nominations” candidate will be included. If the ‘Re-Open Nominations’ candidate is elected, the election process will be immediately restarted.
+In an STV election, "RON (Re-Open Nominations" will be listed as a "virtual candidate".
 
-In multiple winner ERS97 STV elections, an additional question will be included on the ballot paper: “Re-Open Nominations?”, with “Yes” or “No” as answers. If a simple majority of voters vote “Yes”, the election process will be immediately restarted.
+If RON wins any of the open positions, then the election is re-run.
+
+Any candidates that won more votes than RON will be elected on the strength of the initial election. A fresh election will be run for any remaining seats to be filled.
 
 ## (10) ARBITRATION AND DISCIPLINE
 ### Incompatible Memberships
