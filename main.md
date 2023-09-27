@@ -135,10 +135,7 @@ For external elections, the following fallback options may be considered by the 
 
 1. NEC Vote (Second Preference): In exceptional cases where both the ERS97 STV and RON processes cannot be completed, the National Executive Committee (NEC) shall conduct a vote to select candidates for external elections.
 
-2. NEC Deferment to Local Branch Board: The NEC may choose to delegate the candidate selection process for external elections to the Local Branch Board if it deems it necessary or appropriate. Such a decision should take into account local factors, local expertise, and the principles of the Pirate Party UK.
-
-3. Local Branch Board (Third Preference - Local Elections Only): Specifically for local elections, if time constraints or other factors hinder the above processes, the responsibility for candidate selection may shift to the Local Branch Board. The Local Branch Board shall make nominations based on local considerations and the party's principles.
-
+2. NEC Deferment to Local Branch: The NEC may choose to delegate the candidate selection process for external elections to the Local Branch if it deems it necessary or appropriate. Such a decision should take into account local factors, local expertise, and the principles of the Pirate Party UK.
 
 ## (10) ARBITRATION AND DISCIPLINE
 ### Incompatible Memberships
@@ -242,7 +239,7 @@ In such a case, the Party shall take all necessary steps to initiate the dissolu
 
 ## NEC Meetings
 
-NEC meetings are held weekly on the NEC channel of the PPUK Discord server.
+NEC meetings are held weekly on the channel of the PPUK Discord server.
 
 NEC members unable to attend are expected to provide advance apologies.
 
