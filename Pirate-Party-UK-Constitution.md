@@ -79,7 +79,7 @@ The party may be dissolved by a simple majority of members making clear their wi
 
 ## (9) ELECTIONS
 ### Election Types
-All elected  positions shall be elected using the ERS97 STV process both for internal and external elections.
+All elected  positions shall be elected using the ERS97 STV process both for internal NEC and selectioning candidate for external  elections.
 
 ### Nominations
 When an election is due, the NEC will announce the opening of nominations. Upon opening, the NEC will publish the date and time that nominations close. The duration of the nomination period must be no less than 14 days and no more than 31 days. This duration may not be altered except as defined below.
