@@ -239,18 +239,21 @@ In such a case, the Party shall take all necessary steps to initiate the dissolu
 
 ## NEC Meetings
 
-NEC meetings are held weekly on the channel of the PPUK Discord server.
+NEC meetings are held on the PPUK Discord server and will be announced no later than 7 days in advance unless it's an emergency meeting. We will aim to have one every 14 days.
 
-NEC members unable to attend are expected to provide advance apologies.
+NEC members who are unable to attend are expected to provide advance apologies.
 
 Other participants may join at the invitation of an NEC member, subject to no objections from other committee members.
 
-Meetings are typically action-oriented and follow a set agenda, with occasional extra agenda items agreed upon in advance.
+Meetings are typically action-oriented and follow a set agenda, with occasional additional agenda items agreed upon in advance.
 
-Meetings include updates from each officer on the NEC regarding their department's activities from the previous week and plans for the next week.
+During meetings, each officer on the NEC provides updates regarding their department's activities from the previous week and outlines plans for the upcoming week.
 
-Decision-making in NEC normally requires consensus; decisions can be made during meetings or via email. In case of a tie, the Leader holds one additional vote.
+Decision-making in NEC typically requires consensus; decisions can be made during meetings or via email. In the event of a tie, the Leader holds one additional vote.
 
-Minutes of the meeting are made available for members to view after the meeting.
+Minutes of the meeting or/and audio recordings are available for members to review after the meeting.
+
+
+
 
 
