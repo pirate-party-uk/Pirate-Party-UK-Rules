@@ -1,7 +1,14 @@
 # Constitution of the Pirate Party UK
 
-## (1) NAME
-The official name of the organisation (“the Party”) shall be “Pirate Party UK” (“PPUK”).
+## (1) Name and Registration of the Party
+
+The official name of the organization shall be "Pirate Party UK" ("PPUK") and it shall be registered in Great Britain.
+
+**Other Aliases (if applicable):**
+- UKPP
+- The Pirate Party UK
+- Pirate UK
+- Pirate
 
 ## (2) AIMS
 The Pirate Party UK (PPUK) is dedicated to the reform of laws in the United Kingdom in accordance with its Principles.
@@ -54,6 +61,8 @@ Members appointed or elected to a position may be relieved of their title and re
 The National Executive Committee (NEC) shall consist of the following officers, each with specific roles and responsibilities:
 
 - **The Leader:** Heads the party's administration and represents the party to the media and electorate. This NEC officer is expected to stand as a candidate in general and other relevant elections and to take a leading role in setting political strategy. The Leader will also set time aside to support other candidates on campaigning and political issues. The Leader will normally chair NEC meetings.
+
+The Leader also becomes head of department for any vacant positions unless an Interim/Acting officer fulfills the role. The Leader does not acquire an additional vote for each additional position they assume.
 
 - **The Treasurer:** Responsible for the party's finances, including membership fees and campaign expenditure, and is legally responsible for making sure that the party complies with the Political Parties, Elections, and Referendums Act (2000). The Electoral Commission's guidance for treasurers provides more details of what the role's legal responsibilities entail. Within the party, the Treasurer is expected to process new memberships, as well as to manage and review existing memberships. The Treasurer is also responsible for fundraising and for reporting national campaign spending to the Electoral Commission.
 
@@ -161,15 +170,41 @@ In the event of an emergency or an urgent need to replace an officer on the Nati
 
 2. **Emergency Officer Selection**: The NEC, upon receiving notice of the emergency, shall convene a special emergency meeting within 7 day to consider the situation. During this meeting, the NEC will evaluate the emergency and decide whether an interim replacement is necessary.
 
-3. **Interim Appointment**: If the NEC determines that an interim appointment is required, they shall select an interim officer by a majority vote during the special emergency meeting. The selected interim officer will assume the responsibilities of the vacant position immediately.
+3. **Interim Appointment**: If the NEC determines that an interim appointment is required, they shall select an interim officer by a majority vote during the special emergency meeting. The selected interim officer will assume the responsibilities of the vacant position immediately. if no Interim Appointment is needed then the leader is deemed to continue that role.
 
-4. **Notification**: The NEC shall promptly notify all Party members of the emergency appointment and the reasons for it. The notification should also include the date when a regular election to fill the vacant position will take place.
+4. **Notification**: The NEC and EC shall promptly notify all Party members of the emergency appointment and the reasons for it. The notification should also include the date when a regular election to fill the vacant position will take place.
 
 5. **Regular Election**: A regular election to fill the vacant officer position shall be held within 30 days of the emergency appointment, as per the standard election procedures outlined in Section 9. The interim officer may choose to stand for election during this process if they wish to continue in the role.
 
-6. **Consequences of  Failed Replacement with interim officers**: If, despite reasonable efforts, the Party is unable to appoint interim officers to critical positions (such as Leader, Treasurer, Nominating Officer, or other Officers deemed vital for the Party's operation) during an emergency, and this situation persists for 29 days despite attempts to resolve it, the Party shall cease to exist as an organization.
+6. **Consequences of Failed Replacement with interim officers**: In cases where the Leader's position is vacant, and despite reasonable efforts, the Party is unable to appoint interim officers to the Leader during an emergency, and this situation persists for 13 days despite attempts to resolve it, the Party shall cease to exist as an organization.
 
 In such a case, the Party shall take all necessary steps to initiate the dissolution process. Any remaining Party assets, after settling outstanding obligations, shall be donated to a registered charity.
+
+
+Section 12: Financial Management
+
+12.1 The financial management of the Pirate Party UK shall be governed by the provisions set forth in the Financial Scheme adopted by the Party, in compliance with the Political Parties, Elections and Referendums Act 2000 (the Act).
+
+12.2 The role of the Party Treasurer, as defined in the Act and outlined in the Financial Scheme, is to ensure the Party's compliance with the requirements of the Act.
+
+12.3 The Party shall submit its annual statement of accounts to the Electoral Commission by the prescribed deadline, as specified in the Financial Scheme, and in accordance with the Act.
+
+12.4 Donations and Loans received by the Party shall be reported to the Commission quarterly, as detailed in the Financial Scheme, including the recording of donation information, permissibility checks, and submission of quarterly donation reports.
+
+12.5 Campaign expenditure for elections and referendums, if applicable, shall be managed in accordance with the statutory limits and timelines specified in the Financial Scheme, including the timely submission of campaign expenditure returns.
+
+12.6 The Party shall cooperate with any audit requirements imposed by the Commission for grants received from the Commission, as outlined in the Financial Scheme.
+
+12.7 Any changes to the registered details of the Party, including registered officers, shall be reported to the Commission within the timelines specified in the Financial Scheme.
+
+12.8 The Party acknowledges that failure to comply with its legal obligations, as outlined in the Financial Scheme and the Act, may result in civil penalties or criminal offenses.
+
+12.9 In the event of the termination of the Party Treasurer's appointment, the responsibilities outlined in the Financial Scheme shall be transferred to the Party Leader, Nominating Officer, or another registered officer, as specified in the Financial Scheme.
+
+12.10 The Party shall promote compliance with the Act and its legal financial obligations among its members and officers, as outlined in the Financial Scheme.
+
+12.11 Any proposed amendments to this financial management section of the constitution shall be submitted to the Commission for approval, as per the Financial Scheme.
+
 
 
 ### Section 13: AMENDING THE CONSTITUTION
@@ -252,8 +287,3 @@ During meetings, each officer on the NEC provides updates regarding their depart
 Decision-making in NEC typically requires consensus; decisions can be made during meetings or via email. In the event of a tie, the Leader holds one additional vote.
 
 Minutes of the meeting or/and audio recordings are available for members to review after the meeting.
-
-
-
-
-
