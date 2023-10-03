@@ -1,4 +1,4 @@
-# Constitution of the Pirate Party UK
+# Constitution of Pirate Party UK
 
 ## (1) Name and Registration of the Party
 
