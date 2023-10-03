@@ -11,19 +11,19 @@ The official name of the organization shall be "Pirate Party UK" ("PPUK") and it
 - Pirate
 
 ## (2) AIMS
-The Pirate Party UK (PPUK) is dedicated to the reform of laws in the United Kingdom in accordance with its Principles.
+Pirate Party UK (PPUK) is dedicated to the reform of laws in the United Kingdom in accordance with its Principles.
 
 The Party operates with the consent of its Members and upholds the following Principles:
-1. Defend Human Rights: The Pirate Party UK recognises that the protection of human rights is essential for ensuring freedom and equality for all individuals, including all protected characteristics as listed in the Equality Act 2010 (such as LGBTQ+ rights and the rights of marginalized groups such as people of colour and those with mental health issues).
+1. Defend Human Rights: Pirate Party UK recognises that the protection of human rights is essential for ensuring freedom and equality for all individuals, including all protected characteristics as listed in the Equality Act 2010 (such as LGBTQ+ rights and the rights of marginalized groups such as people of colour and those with mental health issues).
 2. Knowledge, Ideas, and Culture: The Party believes that society thrives through the sharing of knowledge, ideas, and culture. It advocates for freedom of thought and expression, protected by the rule of law.
-3. Human Dignity and Participation: The Pirate Party UK upholds the inviolable nature of human dignity. Every person has the right to life, freedom of thought, self-determination, and meaningful participation in society.
+3. Human Dignity and Participation: Pirate Party UK upholds the inviolable nature of human dignity. Every person has the right to life, freedom of thought, self-determination, and meaningful participation in society.
 4. Equality and Transparency: The Party promotes equality under the law and strives for inclusive governance. It emphasizes that everyone should have a voice in the structure and processes of governance and the right to access information about decisions made on their behalf.
-5. Respect for Privacy and Relationships: The Pirate Party UK values the importance of privacy and family life. It advocates for the respect of individuals' private and family lives by both the government and society, emphasizing freedom of choice in associations and relationships.
+5. Respect for Privacy and Relationships: Pirate Party UK values the importance of privacy and family life. It advocates for the respect of individuals' private and family lives by both the government and society, emphasizing freedom of choice in associations and relationships.
 6. Access to Justice and Essential Services: In order for individuals to fully participate in society, the Party believes that everyone should have access to justice, education, and essential services and infrastructure necessary for a fulfilling life.
-7. Society's Security and Responsibility: The Pirate Party UK acknowledges that ensuring the security of society is a fundamental responsibility of the government. It advocates for the provision of defense mechanisms, a just legal system, and the necessary services and infrastructure to meet the needs of the population.
+7. Society's Security and Responsibility: Pirate Party UK acknowledges that ensuring the security of society is a fundamental responsibility of the government. It advocates for the provision of defense mechanisms, a just legal system, and the necessary services and infrastructure to meet the needs of the population.
 8. Evidence-Based Decision-Making and Democracy: The Party is committed to making informed decisions based on evidence. It operates with the consent of society through democratic processes and aims to act in the best interests of all.
 
-This Constitution outlines the fundamental principles and aims of the Pirate Party UK and guides its actions in pursuing its mission to reform UK laws in alignment with these principles.
+This Constitution outlines the fundamental principles and aims of Pirate Party UK and guides its actions in pursuing its mission to reform UK laws in alignment with these principles.
 
 ## (3) ACTIVITIES
 The Party shall take part in democratic electoral processes. It intends to contest any Supranational election the UK is party to, Westminster parliamentary elections, local elections, and other elections as deemed appropriate.
@@ -62,7 +62,7 @@ The National Executive Committee (NEC) shall consist of the following officers, 
 
 - **The Leader:** Heads the party's administration and represents the party to the media and electorate. This NEC officer is expected to stand as a candidate in general and other relevant elections and to take a leading role in setting political strategy. The Leader will also set time aside to support other candidates on campaigning and political issues. The Leader will normally chair NEC meetings.
 
-The Leader also becomes head of department for any vacant positions unless an Interim/Acting officer fulfills the role. The Leader does not acquire an additional vote for each additional position they assume.
+   The Leader also becomes head of department for any vacant positions unless an Interim/Acting officer fulfills the role. The Leader does not acquire an additional vote for each additional position they assume.
 
 - **The Treasurer:** Responsible for the party's finances, including membership fees and campaign expenditure, and is legally responsible for making sure that the party complies with the Political Parties, Elections, and Referendums Act (2000). The Electoral Commission's guidance for treasurers provides more details of what the role's legal responsibilities entail. Within the party, the Treasurer is expected to process new memberships, as well as to manage and review existing memberships. The Treasurer is also responsible for fundraising and for reporting national campaign spending to the Electoral Commission.
 
@@ -137,14 +137,14 @@ Any candidates that won more votes than RON will be elected on the strength of t
 
 ### Candidate Selection Process for External Elections
 
-In cases where the nomination process for external elections (e.g., Supranational, Westminster parliamentary, or local elections) cannot be completed within the specified deadline or under exceptional circumstances, the Pirate Party UK shall follow an alternative process to ensure candidate selection and representation.
+In cases where the nomination process for external elections (e.g., Supranational, Westminster parliamentary, or local elections) cannot be completed within the specified deadline or under exceptional circumstances, Pirate Party UK shall follow an alternative process to ensure candidate selection and representation.
 
 ### Fallback Process
 For external elections, the following fallback options may be considered by the NEC if the nomination process cannot be completed within the specified deadline or under exceptional circumstances:
 
 1. NEC Vote (Second Preference): In exceptional cases where both the ERS97 STV and RON processes cannot be completed, the National Executive Committee (NEC) shall conduct a vote to select candidates for external elections.
 
-2. NEC Deferment to Local Branch: The NEC may choose to delegate the candidate selection process for external elections to the Local Branch if it deems it necessary or appropriate. Such a decision should take into account local factors, local expertise, and the principles of the Pirate Party UK.
+2. NEC Deferment to Local Branch: The NEC may choose to delegate the candidate selection process for external elections to the Local Branch if it deems it necessary or appropriate. Such a decision should take into account local factors, local expertise, and the principles of Pirate Party UK.
 
 ## (10) ARBITRATION AND DISCIPLINE
 ### Incompatible Memberships
@@ -181,9 +181,9 @@ In the event of an emergency or an urgent need to replace an officer on the Nati
 In such a case, the Party shall take all necessary steps to initiate the dissolution process. Any remaining Party assets, after settling outstanding obligations, shall be donated to a registered charity.
 
 
-Section 12: Financial Management
+## Section 12: Financial Management
 
-12.1 The financial management of the Pirate Party UK shall be governed by the provisions set forth in the Financial Scheme adopted by the Party, in compliance with the Political Parties, Elections and Referendums Act 2000 (the Act).
+12.1 The financial management of Pirate Party UK shall be governed by the provisions set forth in the Financial Scheme adopted by the Party, in compliance with the Political Parties, Elections and Referendums Act 2000 (the Act).
 
 12.2 The role of the Party Treasurer, as defined in the Act and outlined in the Financial Scheme, is to ensure the Party's compliance with the requirements of the Act.
 
@@ -203,15 +203,11 @@ Section 12: Financial Management
 
 12.10 The Party shall promote compliance with the Act and its legal financial obligations among its members and officers, as outlined in the Financial Scheme.
 
-12.11 Any proposed amendments to this financial management section of the constitution shall be submitted to the Commission for approval, as per the Financial Scheme.
-
-
-
 ### Section 13: AMENDING THE CONSTITUTION
 
 #### (a) Proposing Amendments
 
-1. Any member of the Pirate Party UK may propose amendments to this constitution by submitting the proposed changes in writing to the National Executive Committee (NEC).
+1. Any member of Pirate Party UK may propose amendments to this constitution by submitting the proposed changes in writing to the National Executive Committee (NEC).
 
 2. Proposed amendments must be submitted with a clear and concise explanation of the rationale behind the changes.
 
@@ -245,7 +241,7 @@ Section 12: Financial Management
 
 #### (a) General Meetings
 
-1. The Pirate Party UK shall hold regular general meetings, as required, to conduct party business, discuss issues, and facilitate member participation.
+1. Pirate Party UK shall hold regular general meetings, as required, to conduct party business, discuss issues, and facilitate member participation.
 
 2. General meetings may be held in-person or virtually, as determined by the National Executive Committee (NEC) or in accordance with any applicable regulations or restrictions.
 
