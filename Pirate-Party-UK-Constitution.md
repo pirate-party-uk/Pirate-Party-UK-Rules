@@ -286,15 +286,46 @@ In such a case, the Party shall take all necessary steps to initiate the dissolu
 1. General meetings may address a range of party-related matters, including but not limited to:
 
    a. Review and approval of financial reports.
+   
    b. Discussion of party policies and positions.
+   
    c. Election of party officers and representatives.
+   
    d. Voting on proposed amendments to the party constitution.
+   
    e. Consideration of urgent party matters.
+   
    f. Any other business relevant to the party's mission and operation.
 
-2. The agenda for general meetings shall be prepared by the NEC or as specified in the party's internal rules and guidelines.
+3. The agenda for general meetings shall be prepared by the NEC or as specified in the party's internal rules and guidelines.
 
-## Section 14: NEC Meetings
+### Local Branch Meetings
+Local branches of Pirate Party UK shall hold regular meetings to discuss regional matters, coordinate local activities, and engage with members in their respective areas.
+
+Local branch meetings may be held in-person or virtually, as determined by the local branch leadership or in accordance with any applicable regulations or restrictions.
+
+Party members residing within the jurisdiction of a local branch are eligible to attend and participate in local branch meetings.
+
+The quorum for local branch meetings shall be determined by the local branch leadership and communicated to members in advance.
+
+Local branch meetings may address regional party-related matters, including but not limited to:
+
+a. Planning and organizing local events and campaigns.
+
+b. Recruitment and engagement of local volunteers.
+
+c. Discussion of regional policies and issues.
+
+d. Reporting on local activities and progress.
+
+e. Any other business relevant to the local branch's mission and operation.
+
+The agenda for local branch meetings shall be prepared by the local branch leadership or as specified in the party's internal rules and guidelines.
+
+Local branches may establish their own by-laws, which shall be consistent with the party's constitution and approved by the NEC. These by-laws may govern the organization and operation of the local branch, including the election of local branch officers, decision-making processes, and other matters specific to the local branch.
+
+
+### NEC Meetings
 
 (a) The NEC shall hold regular meetings to discuss Party matters, make decisions, and review progress. Meetings may be conducted in person, online, or a combination of both, as determined by the NEC. NEC meetings are typically held on the PPUK Discord server, and the format may include both in-person and virtual attendance. Meetings will be announced no later than 7 days in advance, except in emergency situations, and are aimed to occur every 14 days.
 
