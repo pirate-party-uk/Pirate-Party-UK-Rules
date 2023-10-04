@@ -295,6 +295,7 @@ In such a case, the Party shall take all necessary steps to initiate the dissolu
 2. The agenda for general meetings shall be prepared by the NEC or as specified in the party's internal rules and guidelines.
 
 ## NEC Meetings
+
 (a) The NEC shall hold regular meetings to discuss Party matters, make decisions, and review progress. Meetings may be conducted in person, online, or a combination of both, as determined by the NEC. NEC meetings are typically held on the PPUK Discord server, and the format may include both in-person and virtual attendance. Meetings will be announced no later than 7 days in advance, except in emergency situations, and are aimed to occur every 14 days.
 
 (b) The Leader or a designated officer shall provide timely notice of the meeting, including the date, time, location (or virtual platform), and agenda. NEC Members may request items to be included in the agenda prior to the meeting. Additionally, NEC members who are unable to attend are expected to provide advance apologies. Other participants may join at the invitation of an NEC member, subject to no objections from other committee NEC members.
@@ -304,3 +305,63 @@ In such a case, the Party shall take all necessary steps to initiate the dissolu
 (d) The NEC shall strive to make decisions through consensus, with each officer on the NEC providing updates regarding their department's activities from the previous week and outlining plans for the upcoming week during meetings. In cases where consensus cannot be reached during meetings, decisions may also be made via email or other electronic means, provided that all voting NEC  members have the opportunity to participate and express their views. If a decision is made via email, it shall be documented in the meeting minutes or records. In cases of email decision-making, a reasonable timeframe shall be set for NEC members to respond, and decisions shall be based on the responses received within that timeframe. In the event of a tie in voting, the Leader shall have the casting vote to break the tie and make the final decision.
 
 (e) Detailed minutes of the meeting or audio recordings shall be taken during NEC meetings to record discussions, decisions, and actions. The minutes or recordings shall be circulated to all NEC members within a reasonable timeframe after the meeting and maintained as official records of the Party. NEC Members are encouraged to review these records after the meeting.
+
+
+# Section 15: By-Laws
+
+## Purpose of By-Laws
+
+By-laws serve as supplementary regulations to the party's constitution. They provide additional details, procedures, and guidelines to ensure the effective functioning of the party and its various units, including branches, committees, and working groups.
+
+By-laws are intended to clarify and operationalize the principles and provisions outlined in the party's constitution.
+
+## Adoption and Amendment of By-Laws
+
+By-laws may be adopted or amended by a vote of the National Executive Committee (NEC) or by a vote of the party membership, as specified in the party's constitution.
+
+Proposed by-laws or amendments to existing by-laws must be submitted in writing to the NEC or the relevant governing body, and they shall be subject to review and approval in accordance with the procedures outlined in the party's constitution.
+
+The adoption or amendment of by-laws shall require a clear majority vote, as specified in the party's constitution.
+
+## Types of By-Laws
+
+By-laws may cover a wide range of topics, including but not limited to:
+
+a. The structure and operation of local branches.
+
+b. The establishment and functioning of committees and working groups.
+
+c. Procedures for conducting party meetings requirements.
+
+d. Guidelines for financial management, reporting, and accountability, in compliance with the party's Financial scheme and applicable law.
+
+e. Codes of conduct and ethical standards for party members and officers.
+
+f. Rules and procedures for candidate selection and election campaigns.
+
+g. Compliance with the party's constitution, Financial scheme, and the law, and any other matters necessary for the efficient operation of the party.
+
+By-laws may be specific to different units or levels of the party, provided that they do not conflict with the party's constitution.
+
+## Transparency and Accessibility
+
+All adopted by-laws and amendments shall be made readily accessible to party members through the party's official website or other appropriate means.
+
+Party members shall have the right to request copies of by-laws and receive information regarding any recent amendments.
+
+## Compliance with Constitution, Financial Scheme, and Law
+
+By-laws shall ensure compliance with the party's constitution, Financial scheme, and applicable law. They shall outline the procedures and responsibilities for financial reporting, transparency, and accountability, in accordance with the party's financial policies and legal requirements.
+
+## Review and Revision
+
+By-laws shall be subject to periodic review to ensure their relevance and effectiveness in supporting the party's mission and goals.
+
+The NEC or the relevant governing body shall oversee the review and revision of by-laws, and proposed changes shall be presented for approval in accordance with the procedures outlined in the party's constitution.
+
+Party members are encouraged to provide input and feedback on by-laws to contribute to their improvement and alignment with the party's values and objectives.
+
+## Enforceability
+By-laws are binding on all party members, officers, and units. Failure to comply with by-laws may result in disciplinary action in accordance with the party's constitution and established procedures.
+
+Disputes related to the interpretation or application of by-laws shall be resolved through established party grievance procedures or other appropriate mechanisms as specified in the party's constitution.
