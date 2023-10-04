@@ -294,7 +294,7 @@ In such a case, the Party shall take all necessary steps to initiate the dissolu
 
 2. The agenda for general meetings shall be prepared by the NEC or as specified in the party's internal rules and guidelines.
 
-## NEC Meetings
+## Section 14: NEC Meetings
 
 (a) The NEC shall hold regular meetings to discuss Party matters, make decisions, and review progress. Meetings may be conducted in person, online, or a combination of both, as determined by the NEC. NEC meetings are typically held on the PPUK Discord server, and the format may include both in-person and virtual attendance. Meetings will be announced no later than 7 days in advance, except in emergency situations, and are aimed to occur every 14 days.
 
