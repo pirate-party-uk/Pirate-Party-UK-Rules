@@ -269,17 +269,12 @@ In such a case, the Party shall take all necessary steps to initiate the dissolu
 2. The agenda for general meetings shall be prepared by the NEC or as specified in the party's internal rules and guidelines.
 
 ## NEC Meetings
+(a) The NEC shall hold regular meetings to discuss Party matters, make decisions, and review progress. Meetings may be conducted in person, online, or a combination of both, as determined by the NEC. NEC meetings are typically held on the PPUK Discord server, and the format may include both in-person and virtual attendance. Meetings will be announced no later than 7 days in advance, except in emergency situations, and are aimed to occur every 14 days.
 
-NEC meetings are held on the PPUK Discord server and will be announced no later than 7 days in advance unless it's an emergency meeting. We will aim to have one every 14 days.
+(b) The Leader or a designated officer shall provide timely notice of the meeting, including the date, time, location (or virtual platform), and agenda. Members may request items to be included in the agenda prior to the meeting. Additionally, NEC members who are unable to attend are expected to provide advance apologies. Other participants may join at the invitation of an NEC member, subject to no objections from other committee members.
 
-NEC members who are unable to attend are expected to provide advance apologies.
+(c) A quorum, defined as a majority of voting members, must be present for the NEC to conduct official business and make decisions. If a quorum is not met, discussions can still take place, but decisions cannot be made.
 
-Other participants may join at the invitation of an NEC member, subject to no objections from other committee members.
+(d) The NEC shall strive to make decisions through consensus, with each officer on the NEC providing updates regarding their department's activities from the previous week and outlining plans for the upcoming week during meetings. In cases where consensus cannot be reached during meetings, decisions may also be made via email or other electronic means, provided that all voting members have the opportunity to participate and express their views. If a decision is made via email, it shall be documented in the meeting minutes or records. In cases of email decision-making, a reasonable timeframe shall be set for members to respond, and decisions shall be based on the responses received within that timeframe. In the event of a tie in voting, the Leader shall have the casting vote to break the tie and make the final decision.
 
-Meetings are typically action-oriented and follow a set agenda, with occasional additional agenda items agreed upon in advance.
-
-During meetings, each officer on the NEC provides updates regarding their department's activities from the previous week and outlines plans for the upcoming week.
-
-Decision-making in NEC typically requires consensus; decisions can be made during meetings or via email. In the event of a tie, the Leader holds one additional vote.
-
-Minutes of the meeting or/and audio recordings are available for members to review after the meeting.
+(e) Detailed minutes of the meeting or audio recordings shall be taken during NEC meetings to record discussions, decisions, and actions. The minutes or recordings shall be circulated to all NEC members within a reasonable timeframe after the meeting and maintained as official records of the Party. Members are encouraged to review these records after the meeting.
