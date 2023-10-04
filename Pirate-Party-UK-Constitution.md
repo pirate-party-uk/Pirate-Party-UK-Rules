@@ -396,3 +396,76 @@ Party members are encouraged to provide input and feedback on by-laws to contrib
 By-laws are binding on all party members, officers, and units. Failure to comply with by-laws may result in disciplinary action in accordance with the party's constitution and established procedures.
 
 Disputes related to the interpretation or application of by-laws shall be resolved through established party grievance procedures or other appropriate mechanisms as specified in the party's constitution.
+
+
+### Section 16: Working Groups
+
+#### (a) Purpose and Establishment
+
+1. Pirate Party UK recognizes the importance of specialized groups known as "Working Groups" to focus on specific policy areas, projects, or initiatives in alignment with the party's goals and principles.
+
+2. Working Groups may be established to conduct in-depth research, develop policies, plan campaigns, or undertake other activities that contribute to the advancement of the Pirate Party UK's mission and objectives.
+
+3. The creation and dissolution of Working Groups shall be governed by the procedures outlined in this constitution and any accompanying internal rules and guidelines.
+
+#### (b) Composition and Leadership
+
+1. Each Working Group shall consist of members in Good Standing, as defined in Section XX of this constitution, who have expressed an interest in joining the specific Working Group and have been approved by the group's leadership.
+
+2. Working Groups shall be led by a Coordinator or Convenor, who shall be responsible for organizing and coordinating the activities of the Working Group.
+
+3. The Coordinator or Convenor shall be elected or appointed in accordance with the internal rules and guidelines established for each Working Group.
+
+#### (c) Functions and Activities
+
+1. Working Groups may engage in a variety of functions and activities, including but not limited to:
+
+  a. Conducting research and analysis related to their designated policy area.
+
+  b. Developing and proposing policies and positions for adoption by the party.
+
+  c. Planning and executing campaigns or initiatives related to their focus area.
+
+  d. Collaborating with party officials and members to promote their objectives.
+
+  e. Contributing to the development of the party's election platform.
+
+2. The specific objectives, goals, and activities of each Working Group shall be outlined in their respective charters, which shall be approved by the National Executive Committee (NEC) and adhered to by the Working Group.
+
+#### (d) Meetings
+
+1. Working Groups shall convene regular meetings to facilitate their activities and objectives.
+
+2. The frequency of Working Group meetings shall be determined by each Working Group's leadership but should occur regularly to ensure progress toward their goals.
+
+3. The timing and type (in-person, virtual, or a combination) of Working Group meetings shall be established by the Coordinator or Convenor and communicated to Working Group members in advance.
+
+4. Quorum for Working Group meetings shall be defined by the internal rules and guidelines of each Working Group but should ensure a sufficient level of participation for decision-making.
+
+5. Meeting minutes or records shall be maintained for all Working Group meetings, documenting discussions, decisions, and actions taken during the meetings.
+
+6. The outcomes and recommendations of Working Group meetings may be presented to the NEC or General Meetings for consideration and action, as appropriate.
+
+#### (e) Collaboration with External Organizations
+
+1. Working Groups may seek opportunities for collaboration with external organizations, including but not limited to international bodies such as Pirate Parties International (PPI), to further the party's goals and objectives.
+
+2. Any collaboration with external organizations shall be conducted in accordance with the principles and values of Pirate Party UK and shall be subject to approval by the NEC.
+
+3. The results and outcomes of any collaboration with external organizations shall be reported to the NEC and may be presented to General Meetings for information and review.
+
+#### (f) Reporting and Accountability
+
+1. Working Groups shall provide regular reports on their activities, progress, and recommendations to the NEC and, where applicable, to General Meetings of Pirate Party UK.
+
+2. The NEC shall oversee the activities of Working Groups to ensure alignment with the party's principles and goals.
+
+3. Working Groups shall be accountable to the NEC and shall cooperate with other party bodies as necessary to achieve their objectives.
+
+#### (g) Dissolution
+
+1. A Working Group may be dissolved by a decision of the NEC if it is determined that the group no longer serves a useful purpose or if its activities are deemed contrary to the principles and goals of Pirate Party UK.
+
+2. A proposal for the dissolution of a Working Group may be initiated by the NEC or by a petition signed by a specified percentage of party members, as determined by the NEC.
+
+3. Dissolution shall be subject to approval by a majority vote of the NEC, with due consideration of the reasons for dissolution presented in the proposal.
