@@ -1,7 +1,6 @@
 # Constitution of Pirate Party UK
 
 ## (1) Name and Registration of the Party
-
 The official name of the organization shall be "Pirate Party UK" ("PPUK") and it shall be registered in Great Britain.
 
 **Other Aliases (if applicable):**
@@ -33,34 +32,54 @@ In the furtherance of its aims, the Party may:
 - Invest any monies of the Party not immediately required, in accordance with the Trustee Act of 1925.
 - Do all such other lawful things as are necessary for the attainment of the Party’s aims.
 
-### Branches
-The Party may establish branches at the local or regional level, subject to approval by the NEC. Branches shall be responsible for organizing local activities and promoting the Party's aims and objectives within their respective areas.
+### 14. BRANCHES
 
+#### 14.1 Local Branches
+Pirate Party UK may establish branches at the local or regional level, subject to approval by the NEC. Branches shall be responsible for organizing local activities and promoting the Party's aims and objectives within their respective areas.
+
+#### 14.2 Establishment and Autonomy
 Branches shall have the autonomy to manage their internal affairs, including the election of branch officers and the development of branch-specific by-laws, provided that such by-laws are consistent with the party's constitution and approved by the NEC.
 
+#### 14.3 Support and Guidance
 The NEC shall provide guidance and support to branches to facilitate their effective operation and alignment with the party's overall goals. This support may include training, resources, and access to the party's communication platforms.
 
+#### 14.4 Communication and Updates
 Branches shall maintain regular communication with the NEC and provide updates on their activities, achievements, and challenges. This communication shall ensure coordination between the central party and its local branches.
 
-Branches may organize local events, campaigns, and outreach activities to engage with the community and promote the party's platform. These activities shall be conducted in a manner consistent with the party's values and principles.
+#### 14.5 Local Branch Roles
+Local branches may establish the following roles to support their activities and operations:
 
+1. **Branch Chairperson:** Responsible for leading and representing the local branch in party matters.
+
+2. **Branch Vice-Chairperson:** Assists the Branch Chairperson in their duties and may assume their role in their absence.
+
+3. **Branch Secretary:** Manages administrative tasks, records meeting minutes, and handles correspondence for the local branch.
+
+4. **Branch Campaign Coordinator:** Coordinates local campaigns and outreach efforts.
+
+5. **Branch Membership Coordinator:** Manages membership-related matters, including recruitment and engagement.
+
+6. **Branch Events Coordinator:** Organizes and oversees local events and activities.
+
+7. **Branch Communications Officer:** Manages communication channels and promotes the branch's activities.
+
+8. **Branch Outreach Officer:** Engages with the local community and external organizations on behalf of the branch.
+
+#### 14.6 Recognition and Accreditation
 The NEC may establish criteria for the recognition and accreditation of branches. Such criteria may include minimum membership thresholds, adherence to the party's constitution, and regular reporting of branch activities.
 
+#### 14.7 Active Participation
 Branches shall encourage active participation by party members within their geographic areas and foster a sense of community and shared purpose among members.
 
-The NEC may dissolve or suspend a branch in cases of gross misconduct, repeated violations of party policies, or failure to meet established criteria for recognition.
+#### 14.8 Dissolution and Governance
+The NEC may dissolve or suspend a branch in cases of gross misconduct, repeated violations of party policies, or failure to meet established criteria for recognition. The establishment, operation, and dissolution of branches shall be governed by procedures outlined in the party's constitution and any relevant by-laws.
 
-Local branch officers shall have the responsibility to represent the interests and concerns of their respective branches at the national level. They shall participate in NEC meetings as required and convey information and feedback from their branches to the central party leadership.
+#### 14.9 Collaboration and Expansion
+Branches shall collaborate with other branches and party units to enhance the overall effectiveness and reach of the Pirate Party UK in advancing its mission and objectives. The party shall encourage the establishment of branches in regions where there is a significant concentration of party members, with the aim of extending the party's influence and impact at the local level.
 
-The establishment, operation, and dissolution of branches shall be governed by procedures outlined in the party's constitution and any relevant by-laws.
+#### 14.10 Accountability and Financial Management
+Branches shall be accountable to the NEC and the party membership for their actions and decisions, ensuring alignment with the party's values and objectives. Financial management for branches shall be the responsibility of the NEC treasurer. Branches are not considered financial autonomous units and do not require separate financial oversight. While branches do not have separate treasurers or financial autonomy, they are encouraged to actively engage with the NEC treasurer for financial planning and reporting purposes. This collaboration ensures transparency and accountability in financial matters related to branch activities.
 
-Branches shall collaborate with other branches and party units to enhance the overall effectiveness and reach of the Pirate Party UK in advancing its mission and objectives.
-
-The party shall encourage the establishment of branches in regions where there is a significant concentration of party members, with the aim of extending the party's influence and impact at the local level.
-
-Branches shall be accountable to the NEC and the party membership for their actions and decisions, ensuring alignment with the party's values and objectives.
-
-Financial management for branches shall be the responsibility of the NEC treasurer. Branches are not considered financial autonomous units and do not require separate financial oversight. While branches do not have separate treasurers or financial autonomy, they are encouraged to actively engage with the NEC treasurer for financial planning and reporting purposes. This collaboration ensures transparency and accountability in financial matters related to branch activities.
 
 ### Volunteerism
 The party relies on the volunteer efforts of its members to achieve its goals. Members are encouraged to volunteer their time and talents in support of the party's activities and campaigns. The party will make a good-faith effort to provide opportunities for members to engage in meaningful volunteer work.
@@ -86,21 +105,27 @@ Members appointed or elected to a position may be relieved of their title and re
 
 The National Executive Committee (NEC) shall consist of the following officers, each with specific roles and responsibilities:
 
-- **The Leader:** Heads the party's administration and represents the party to the media and electorate. This NEC officer is expected to stand as a candidate in general and other relevant elections and to take a leading role in setting political strategy. The Leader will also set time aside to support other candidates on campaigning and political issues. The Leader will normally chair NEC meetings.
+### The Leader
+Heads the party's administration and represents the party to the media and electorate. This NEC officer is expected to stand as a candidate in general and other relevant elections and to take a leading role in setting political strategy. The Leader will also set time aside to support other candidates on campaigning and political issues. The Leader will normally chair NEC meetings.
 
-   The Leader also becomes head of department for any vacant positions unless an Interim/Acting officer fulfills the role. The Leader does not acquire an additional vote for each additional position they assume.
+The Leader also becomes head of department for any vacant positions unless an Interim/Acting officer fulfills the role. The Leader does not acquire an additional vote for each additional position they assume.
 
-- **The Treasurer:** Responsible for the party's finances, including membership fees and campaign expenditure, and is legally responsible for making sure that the party complies with the Political Parties, Elections, and Referendums Act (2000). The Electoral Commission's guidance for treasurers provides more details of what the role's legal responsibilities entail. Within the party, the Treasurer is expected to process new memberships, as well as to manage and review existing memberships. The Treasurer is also responsible for fundraising and for reporting national campaign spending to the Electoral Commission.
+### The Treasurer
+Responsible for the party's finances, including membership fees and campaign expenditure, and is legally responsible for making sure that the party complies with the Political Parties, Elections, and Referendums Act (2000). The Electoral Commission's guidance for treasurers provides more details of what the role's legal responsibilities entail. Within the party, the Treasurer is expected to process new memberships, as well as to manage and review existing memberships. The Treasurer is also responsible for fundraising and for reporting national campaign spending to the Electoral Commission.
 
-- **The Nominating Officer:** Responsible for running internal elections and for authorizing candidates to stand on behalf of the party (official responsibilities outlined in the Representation of the People Act 1983), as well as for keeping the NEC up to date with election timetables as released by the Electoral Commission. The Nominating Officer is also expected to assist candidates with completion of nomination forms and other paperwork, and to maintain party details with the Electoral Commission.
+### The Nominating Officer
+Responsible for running internal elections and for authorizing candidates to stand on behalf of the party (official responsibilities outlined in the Representation of the People Act 1983), as well as for keeping the NEC up to date with election timetables as released by the Electoral Commission. The Nominating Officer is also expected to assist candidates with completion of nomination forms and other paperwork, and to maintain party details with the Electoral Commission.
 
 The following roles are optional and can be added or removed by the NEC as needed:
 
-- **The Campaigns Officer:** Responsible for internal and external campaigns, including conferences, demonstrations, and political awareness, as well as supporting candidates during election campaigning and coordinating press responses. Support for local campaigns may include research, printed material, web resources, and press support. The Campaigns team helps the Treasury team in relation to fundraising.
+### The Campaigns Officer
+Responsible for internal and external campaigns, including conferences, demonstrations, and political awareness, as well as supporting candidates during election campaigning and coordinating press responses. Support for local campaigns may include research, printed material, web resources, and press support. The Campaigns team helps the Treasury team in relation to fundraising.
 
-- **The Deputy Leader:** Supports the Leader in this role. In the event the Leader position is vacant, the Deputy Leader, for all intents and purposes, becomes the Acting Leader. Once an election has run and a new Leader has been elected, the then Acting Leader reverts to the Deputy Leader.
+### The Deputy Leader
+Supports the Leader in this role. In the event the Leader position is vacant, the Deputy Leader, for all intents and purposes, becomes the Acting Leader. Once an election has run and a new Leader has been elected, the then Acting Leader reverts to the Deputy Leader.
 
-- **The Secretary:** Acts as the party's Data Controller, responsible for handling stored data and making sure we comply with Data Protection laws. The Secretary also organizes and minutes NEC meetings and oversees the Secretariat, which manages party-internal communication, including answering and maintaining the party's membership base. As Data Controller, the Secretary should ensure that the party only collects personal data when necessary, that this data is stored with adequate safeguards, that access to this data is limited, and that members are aware of the party's privacy policy (for which the Secretary is responsible).
+### The Secretary
+9.1 Acts as the party's Data Controller, responsible for handling stored data and making sure we comply with Data Protection laws. The Secretary also organizes and minutes NEC meetings and oversees the Secretariat, which manages party-internal communication, including answering and maintaining the party's membership base. As Data Controller, the Secretary should ensure that the party only collects personal data when necessary, that this data is stored with adequate safeguards, that access to this data is limited, and that members are aware of the party's privacy policy (for which the Secretary is responsible).
 
 The NEC must ensure that newly elected officers understand their roles and responsibilities under the law, where applicable, and that they understand their departmental aims and are aware of the resources available to run them. Any officer may be supported in their role by additional non-elected deputies when the need arises and when the resources are available.
 
@@ -113,10 +138,10 @@ The NEC shall designate a voting NEC member who is responsible to the party for 
 The party may be dissolved by a simple majority of members making clear their wish to dissolve the party. Any assets belonging to the party at the time of dissolution will be donated to a registered charity of the NEC’s choosing.
 
 ## (9) ELECTIONS
-### Election Types
+### 9.1 Election Types
 All elected  positions shall be elected using the ERS97 STV process both for internal NEC and selectioning candidate for external  elections.
 
-### Nominations
+### 9.2 Nominations
 When an election is due, the NEC will announce the opening of nominations. Upon opening, the NEC will publish the date and time that nominations close. The duration of the nomination period must be no less than 14 days and no more than 31 days. This duration may not be altered except as defined below.
 
 Nominations will remain open indefinitely if no nominations are received. Should a nomination occur after this period, nominations must remain open for a minimum of 14 days from the date of a nomination being made.
@@ -127,32 +152,32 @@ Unless constitutionally indicated otherwise, members may nominate themselves as 
 
 Nominated candidates must be Party members in Good Standing (as defined in Section 10).
 
-### Seconding
+### 9.3 Seconding
 All elected national positions require that candidates be seconded by a Party member in Good Standing.
 
 Members may only second one candidate per position. Members may not second any candidates in any election they are contesting.
 
-### Campaigning
+### 9.4 Campaigning
 Campaigning opens to coincide with the closing of nominations. Should the opening of campaigning be delayed, this additional time is to be considered an extension to the nomination period. Campaigning must remain open for no less than 7 days and normally no more than 31 days.
 
-### Voting
+### 9.5 Voting
 Voting must open to coincide with the closing of campaigning. Should the opening of voting be delayed, this additional time is to be considered an extension to the campaigning period. Voting must remain open for no less than 7 days and normally no more than 31 days.
 
-### Exclusions
+### 9.6 Exclusions
 A member is excluded from standing for election and holding an elected position if they are not in Good Standing (as defined in Section 10).
 
 Some elected positions exclude those who already hold another elected position.
 
-### Election Terms
+### 9.7 Election Terms
 Elections must be held no less frequently than every 25 months for all positions on the NEC, irrespective of how long each officer has been in post.
 
-### Electorate
+### 9.8 Electorate
 All party members in Good Standing (as defined in Section 10) are eligible to vote in all elections unless otherwise specified in this constitution.
 
-### Extraordinary Elections
+### 9.9 Extraordinary Elections
 When an elected position is vacant outside of the normal election terms, an election process for the position will be held following the rules in Section 9. These extraordinary procedures should ordinarily begin within 30 days of the position becoming vacant.
 
-### Election Procedures
+### 9.10 Election Procedures
 The NEC is responsible for making sure all election and vote procedures are followed.
 
 In an STV election, "RON (Re-Open Nominations)" will be listed as a "virtual candidate".
@@ -161,34 +186,59 @@ If RON wins any of the open positions, then the election is re-run.
 
 Any candidates that won more votes than RON will be elected on the strength of the initial election. A fresh election will be run for any remaining seats to be filled.
 
-### Candidate Selection Process for External Elections
+### 9.11 Candidate Selection Process for External Elections
 
 In cases where the nomination process for external elections (e.g., Supranational, Westminster parliamentary, or local elections) cannot be completed within the specified deadline or under exceptional circumstances, Pirate Party UK shall follow an alternative process to ensure candidate selection and representation.
 
-### Fallback Process
+### 9.12 Fallback Process
 For external elections, the following fallback options may be considered by the NEC if the nomination process cannot be completed within the specified deadline or under exceptional circumstances:
 
 1. NEC Vote (Second Preference): In exceptional cases where both the ERS97 STV and RON processes cannot be completed, the National Executive Committee (NEC) shall conduct a vote to select candidates for external elections.
 
 2. NEC Deferment to Local Branch: The NEC may choose to delegate the candidate selection process for external elections to the Local Branch if it deems it necessary or appropriate. Such a decision should take into account local factors, local expertise, and the principles of Pirate Party UK.
 
+### 9.13 Local Branch Committee Elections
+
+Local Branch Committee elections shall follow the same process as any other election, with the following exceptions:
+
+#### 9.13.1 Eligibility
+
+- Candidates for Local Branch Committee positions must be Party members in Good Standing (as defined in Section 10) and must be local residents within the jurisdiction of the respective local branch.
+
+- Eligible voters in Local Branch Committee elections are Party members in Good Standing (as defined in Section 10) who are also local residents within the jurisdiction of the respective local branch.
+
+#### 9.13.2 Nomination and Seconding
+
+- Nominations for Local Branch Committee positions shall be open to local candidates as defined in 9.13.1.
+
+- Candidates for Local Branch Committee positions must be seconded by a Party member in Good Standing (as defined in Section 10) who is also a local resident within the jurisdiction of the respective local branch.
+
+#### 9.13.3 Campaigning and Voting
+
+- The campaigning and voting periods for Local Branch Committee elections shall align with the general election procedures outlined in Section 9, with eligibility limited to local members as defined in 9.13.1.
+
+#### 9.13.4 Oversight
+
+- The Local Branch Committee shall be responsible for organizing and overseeing Local Branch Committee elections within their respective branches, ensuring that the process is conducted in a fair and transparent manner.
+
+
 ## (10) ARBITRATION AND DISCIPLINE
-### Incompatible Memberships
+### 10.1 Incompatible Memberships
 If a member of the Party subsequently joins an organization that the Board declares to be incompatible with membership of the Party, or if the member is found to be a member of such an organization, then the Board may revoke their membership of the Party without return of membership fees.
 
-### Votes of No Confidence
+### 10.2 Votes of No Confidence
 A vote of no confidence in any elected official will be triggered when either 50% or more of the fully paid-up membership or over 50% of the NEC make their desire for a vote of no confidence known to the NEC.
 
 When a vote of no confidence has been triggered, the Board will arrange for a vote of party members to ascertain the confidence of the electorate in the elected official, which will conclude within at most 28 days. The officer will be dismissed if a simple majority of eligible members who take part in that vote, vote in favor of dismissal, subject to a quorum of 10% of eligible members.
 
-### Voting Eligibility for Votes of No Confidence
+### 10.3 Voting Eligibility for Votes of No Confidence
 The eligibility of a member to vote in a particular vote of no confidence will be based on whether that member would be eligible to vote for the elected position as per rules in Section 9.
 
-### Good Standing
+### 10.4 Good Standing
 A member is regarded as being in Good Standing if they are a paid-up member and have not had their position of Good Standing stripped from them.
 
 
-## Section 11: REPLACEMENT OF OFFICERS IN AN EMERGENCY
+## 11: REPLACEMENT OF OFFICERS IN AN EMERGENCY
 
 In the event of an emergency or an urgent need to replace an officer on the National Executive Committee (NEC) before a regular election can be held, the following process will apply:
 
@@ -200,106 +250,101 @@ In the event of an emergency or an urgent need to replace an officer on the Nati
 
 4. **Notification**: The NEC  shall promptly notify all Party members of the emergency appointment and the reasons for it. The notification should also include the date when a regular election to fill the vacant position will take place. 
 
-5. **Regular Election**: A regular election to fill the vacant officer position shall be held within 30 days of the emergency appointment, as per the standard election procedures outlined in Section 9. The interim officer may choose to stand for election during this process if they wish to continue in the role.
+### 11.1 Regular Election
+A regular election to fill the vacant officer position shall be held within 30 days of the emergency appointment, as per the standard election procedures outlined in Section 9. The interim officer may choose to stand for election during this process if they wish to continue in the role.
 
-6. **Consequences of Failed Replacement with interim officers**: In cases where the Leader's position is vacant, and despite reasonable efforts, the Party is unable to appoint interim officers to the Leader during an emergency, and this situation persists for 13 days despite attempts to resolve it, the Party shall cease to exist as an organization.
+### 11.2 Consequences of Failed Replacement with interim officers
+In cases where the Leader's position is vacant, and despite reasonable efforts, the Party is unable to appoint interim officers to the Leader during an emergency, and this situation persists for 13 days despite attempts to resolve it, the Party shall cease to exist as an organization.
 
 In such a case, the Party shall take all necessary steps to initiate the dissolution process. Any remaining Party assets, after settling outstanding obligations, shall be donated to a registered charity.
 
 
 ## Section 12: Financial Management
+The financial management of Pirate Party UK shall be governed by the provisions set forth in the Financial Scheme adopted by the Party, in compliance with the Political Parties, Elections and Referendums Act 2000 (the Act).
 
-12.1 The financial management of Pirate Party UK shall be governed by the provisions set forth in the Financial Scheme adopted by the Party, in compliance with the Political Parties, Elections and Referendums Act 2000 (the Act).
+The role of the Party Treasurer, as defined in the Act and outlined in the Financial Scheme, is to ensure the Party's compliance with the requirements of the Act.
 
-12.2 The role of the Party Treasurer, as defined in the Act and outlined in the Financial Scheme, is to ensure the Party's compliance with the requirements of the Act.
+The Party shall submit its annual statement of accounts to the Electoral Commission by the prescribed deadline, as specified in the Financial Scheme, and in accordance with the Act.
 
-12.3 The Party shall submit its annual statement of accounts to the Electoral Commission by the prescribed deadline, as specified in the Financial Scheme, and in accordance with the Act.
+Donations and Loans received by the Party shall be reported to the Commission quarterly, as detailed in the Financial Scheme, including the recording of donation information, permissibility checks, and submission of quarterly donation reports.
 
-12.4 Donations and Loans received by the Party shall be reported to the Commission quarterly, as detailed in the Financial Scheme, including the recording of donation information, permissibility checks, and submission of quarterly donation reports.
+Campaign expenditure for elections and referendums, if applicable, shall be managed in accordance with the statutory limits and timelines specified in the Financial Scheme, including the timely submission of campaign expenditure returns.
 
-12.5 Campaign expenditure for elections and referendums, if applicable, shall be managed in accordance with the statutory limits and timelines specified in the Financial Scheme, including the timely submission of campaign expenditure returns.
+The Party shall cooperate with any audit requirements imposed by the Commission for grants received from the Commission, as outlined in the Financial Scheme.
 
-12.6 The Party shall cooperate with any audit requirements imposed by the Commission for grants received from the Commission, as outlined in the Financial Scheme.
+Any changes to the registered details of the Party, including registered officers, shall be reported to the Commission within the timelines specified in the Financial Scheme.
 
-12.7 Any changes to the registered details of the Party, including registered officers, shall be reported to the Commission within the timelines specified in the Financial Scheme.
+The Party acknowledges that failure to comply with its legal obligations, as outlined in the Financial Scheme and the Act, may result in civil penalties or criminal offenses.
 
-12.8 The Party acknowledges that failure to comply with its legal obligations, as outlined in the Financial Scheme and the Act, may result in civil penalties or criminal offenses.
+ In the event of the termination of the Party Treasurer's appointment, the responsibilities outlined in the Financial Scheme shall be transferred to the Party Leader, Nominating Officer, or another registered officer, as specified in the Financial Scheme.
 
-12.9 In the event of the termination of the Party Treasurer's appointment, the responsibilities outlined in the Financial Scheme shall be transferred to the Party Leader, Nominating Officer, or another registered officer, as specified in the Financial Scheme.
-
-12.10 The Party shall promote compliance with the Act and its legal financial obligations among its members and officers, as outlined in the Financial Scheme.
+The Party shall promote compliance with the Act and its legal financial obligations among its members and officers, as outlined in the Financial Scheme.
 
 ### Section 13: AMENDING THE CONSTITUTION
 
-#### (a) Proposing Amendments
+#### 13.1 Proposing Amendments
+Any member of Pirate Party UK may propose amendments to this constitution by submitting the proposed changes in writing to the National Executive Committee (NEC).
 
-1. Any member of Pirate Party UK may propose amendments to this constitution by submitting the proposed changes in writing to the National Executive Committee (NEC).
+Proposed amendments must be submitted with a clear and concise explanation of the rationale behind the changes.
 
-2. Proposed amendments must be submitted with a clear and concise explanation of the rationale behind the changes.
+The NEC shall review the proposed amendments and consider their impact on the Party's principles and operations.
 
-3. The NEC shall review the proposed amendments and consider their impact on the Party's principles and operations.
+#### 13.2 Approval Process
+Amendments to this constitution shall be approved by a vote of the Party's membership unless specified as an exception in subsection (c) below.
 
-#### (b) Approval Process
+The NEC shall organize a vote on proposed amendments within a reasonable time frame, not to exceed 60 days from the date of submission of the proposed amendments.
 
-1. Amendments to this constitution shall be approved by a vote of the Party's membership unless specified as an exception in subsection (c) below.
+Party members in Good Standing, as defined in Section 10, shall be eligible to vote on proposed amendments.
 
-2. The NEC shall organize a vote on proposed amendments within a reasonable time frame, not to exceed 60 days from the date of submission of the proposed amendments.
+Proposed amendments shall be considered approved if they receive a two-thirds (2/3) majority of the votes cast by eligible members.
 
-3. Party members in Good Standing, as defined in Section 10, shall be eligible to vote on proposed amendments.
+#### 13.3 Exception: NEC-Initiated Amendments
+The NEC may propose and implement amendments to this constitution without the need for a membership vote in the following exceptional circumstances:
 
-4. Proposed amendments shall be considered approved if they receive a two-thirds (2/3) majority of the votes cast by eligible members.
+   1. Legal Compliance: When amendments are necessary to ensure compliance with relevant laws and regulations.
 
-#### (c) Exception: NEC-Initiated Amendments
+   2. Urgent Operational Requirements: When urgent amendments are required to address critical operational issues that cannot wait for a membership vote.
 
-1. The NEC may propose and implement amendments to this constitution without the need for a membership vote in the following exceptional circumstances:
+In such cases, the NEC shall have the authority to make and implement the proposed amendments.
 
-   a. Legal Compliance: When amendments are necessary to ensure compliance with relevant laws and regulations.
-
-   b. Urgent Operational Requirements: When urgent amendments are required to address critical operational issues that cannot wait for a membership vote.
-
-2. In such cases, the NEC shall have the authority to make and implement the proposed amendments.
-
-3. Emergency amendments shall be clearly communicated to the Party's membership, and a record of the emergency amendment shall be maintained in the official Party records.
+Emergency amendments shall be clearly communicated to the Party's membership, and a record of the emergency amendment shall be maintained in the official Party records.
 
 
 
 ### Section 14: PARTY MEETINGS
 
-#### (a) General Meetings
+#### 14.1 General Meetings
+Pirate Party UK shall hold regular general meetings, as required, to conduct party business, discuss issues, and facilitate member participation.
 
-1. Pirate Party UK shall hold regular general meetings, as required, to conduct party business, discuss issues, and facilitate member participation.
+General meetings may be held in-person or virtually, as determined by the National Executive Committee (NEC) or in accordance with any applicable regulations or restrictions.
 
-2. General meetings may be held in-person or virtually, as determined by the National Executive Committee (NEC) or in accordance with any applicable regulations or restrictions.
+Party members in Good Standing, as defined in Section 10, are eligible to attend and participate in general meetings.
 
-3. Party members in Good Standing, as defined in Section 10, are eligible to attend and participate in general meetings.
+#### 14.2 Quorum
+A quorum for general meetings shall be determined by the NEC and communicated in advance to members.
 
-#### (b) Quorum
+The quorum shall typically be set as a percentage of eligible members, ensuring that the meeting has a sufficient level of participation for decision-making.
 
-1. A quorum for general meetings shall be determined by the NEC and communicated in advance to members.
+all General Meetings and NEC shall have a quorum of 51% of NEC officeses.
 
-2. The quorum shall typically be set as a percentage of eligible members, ensuring that the meeting has a sufficient level of participation for decision-making.
+#### 14.3 Business Conducted
+General meetings may address a range of party-related matters, including but not limited to:
 
-3.  all General Meetings and NEC shall have a quorum of 51% of NEC officeses.
-
-#### (c) Business Conducted
-
-1. General meetings may address a range of party-related matters, including but not limited to:
-
-   a. Review and approval of financial reports.
+   1. Review and approval of financial reports.
    
-   b. Discussion of party policies and positions.
+   2. Discussion of party policies and positions.
    
-   c. Election of party officers and representatives.
+   3. Election of party officers and representatives.
    
-   d. Voting on proposed amendments to the party constitution.
+   4. Voting on proposed amendments to the party constitution.
    
-   e. Consideration of urgent party matters.
+   5. Consideration of urgent party matters.
    
-   f. Any other business relevant to the party's mission and operation.
+   6. Any other business relevant to the party's mission and operation.
 
-3. The agenda for general meetings shall be prepared by the NEC or as specified in the party's internal rules and guidelines.
+The agenda for general meetings shall be prepared by the NEC or as specified in the party's internal rules and guidelines.
 
-### Local Branch Meetings
+### 14.4 Local Branch Meetings
 Local branches of Pirate Party UK shall hold regular meetings to discuss regional matters, coordinate local activities, and engage with members in their respective areas.
 
 Local branch meetings may be held in-person or virtually, as determined by the local branch leadership or in accordance with any applicable regulations or restrictions.
@@ -308,91 +353,111 @@ Party members residing within the jurisdiction of a local branch are eligible to
 
 The quorum for local branch meetings shall be determined by the local branch leadership and communicated to members in advance.
 
+The quorum shall typically be set as a percentage of eligible local members, ensuring that the meeting has a sufficient level of participation for decision-making.
+
 Local branch meetings may address regional party-related matters, including but not limited to:
 
-a. Planning and organizing local events and campaigns.
+1. Planning and organizing local events and campaigns.
 
-b. Recruitment and engagement of local volunteers.
+1. Recruitment and engagement of local volunteers.
 
-c. Discussion of regional policies and issues.
+1. Discussion of regional policies and issues.
 
-d. Reporting on local activities and progress.
+1. Reporting on local activities and progress.
 
-e. Any other business relevant to the local branch's mission and operation.
+1. Any other business relevant to the local branch's mission and operation.
 
 The agenda for local branch meetings shall be prepared by the local branch leadership or as specified in the party's internal rules and guidelines.
 
 Local branches may establish their own by-laws, which shall be consistent with the party's constitution and approved by the NEC. These by-laws may govern the organization and operation of the local branch, including the election of local branch officers, decision-making processes, and other matters specific to the local branch.
 
 
-### NEC Meetings
+### 14.5 NEC Meetings
+The NEC shall hold regular meetings to discuss Party matters, make decisions, and review progress. Meetings may be conducted in person, online, or a combination of both, as determined by the NEC. NEC meetings are typically held on the PPUK Discord server, and the format may include both in-person and virtual attendance. Meetings will be announced no later than 7 days in advance, except in emergency situations, and are aimed to occur every 14 days.
 
-(a) The NEC shall hold regular meetings to discuss Party matters, make decisions, and review progress. Meetings may be conducted in person, online, or a combination of both, as determined by the NEC. NEC meetings are typically held on the PPUK Discord server, and the format may include both in-person and virtual attendance. Meetings will be announced no later than 7 days in advance, except in emergency situations, and are aimed to occur every 14 days.
+The Leader or a designated officer shall provide timely notice of the meeting, including the date, time, location (or virtual platform), and agenda. NEC Members may request items to be included in the agenda prior to the meeting. Additionally, NEC members who are unable to attend are expected to provide advance apologies. Other participants may join at the invitation of an NEC member, subject to no objections from other committee NEC members.
+ A quorum, defined as a majority of voting NEC members, must be present for the NEC to conduct official business and make decisions. If a quorum is not met, discussions can still take place, but decisions cannot be made.
 
-(b) The Leader or a designated officer shall provide timely notice of the meeting, including the date, time, location (or virtual platform), and agenda. NEC Members may request items to be included in the agenda prior to the meeting. Additionally, NEC members who are unable to attend are expected to provide advance apologies. Other participants may join at the invitation of an NEC member, subject to no objections from other committee NEC members.
+The NEC shall strive to make decisions through consensus, with each officer on the NEC providing updates regarding their department's activities from the previous week and outlining plans for the upcoming week during meetings. In cases where consensus cannot be reached during meetings, decisions may also be made via email or other electronic means, provided that all voting NEC  members have the opportunity to participate and express their views. If a decision is made via email, it shall be documented in the meeting minutes or records. In cases of email decision-making, a reasonable timeframe shall be set for NEC members to respond, and decisions shall be based on the responses received within that timeframe. In the event of a tie in voting, the Leader shall have the casting vote to break the tie and make the final decision.
 
-(c) A quorum, defined as a majority of voting NEC members, must be present for the NEC to conduct official business and make decisions. If a quorum is not met, discussions can still take place, but decisions cannot be made.
+Detailed minutes of the meeting or audio recordings shall be taken during NEC meetings to record discussions, decisions, and actions. The minutes or recordings shall be circulated to all NEC members within a reasonable timeframe after the meeting and maintained as official records of the Party. NEC Members are encouraged to review these records after the meeting.
 
-(d) The NEC shall strive to make decisions through consensus, with each officer on the NEC providing updates regarding their department's activities from the previous week and outlining plans for the upcoming week during meetings. In cases where consensus cannot be reached during meetings, decisions may also be made via email or other electronic means, provided that all voting NEC  members have the opportunity to participate and express their views. If a decision is made via email, it shall be documented in the meeting minutes or records. In cases of email decision-making, a reasonable timeframe shall be set for NEC members to respond, and decisions shall be based on the responses received within that timeframe. In the event of a tie in voting, the Leader shall have the casting vote to break the tie and make the final decision.
 
-(e) Detailed minutes of the meeting or audio recordings shall be taken during NEC meetings to record discussions, decisions, and actions. The minutes or recordings shall be circulated to all NEC members within a reasonable timeframe after the meeting and maintained as official records of the Party. NEC Members are encouraged to review these records after the meeting.
+###  14.6 Local Branch Committee Meetings
+Local branches of Pirate Party UK shall establish local branch committees responsible for coordinating branch activities and making decisions regarding local matters. These committees shall hold regular meetings to discuss branch affairs, plan events, and engage with branch members.
 
+Local branch committee meetings may be conducted in person, online, or through a combination of both, as determined by the local branch committee. Meetings will be announced to local branch members no later than 7 days in advance, except in emergency situations, and are aimed to occur at regular intervals.
+
+The Chair or a designated officer of the local branch committee shall provide timely notice of the meeting, including the date, time, location (or virtual platform), and agenda. Committee members may request items to be included in the agenda prior to the meeting. Additionally, committee members who are unable to attend are expected to provide advance apologies. Other participants may join at the invitation of a committee member, subject to no objections from other committee members.
+
+A quorum, defined as a majority of voting committee members, must be present for the committee to conduct official business and make decisions. If a quorum is not met, discussions can still take place, but decisions cannot be made.
+
+The local branch committee shall aim to make decisions through consensus, with each committee member providing updates on their respective responsibilities and outlining plans for the upcoming period during meetings. In cases where consensus cannot be reached during meetings, decisions may also be made via email or other electronic means, provided that all voting committee members have the opportunity to participate and express their views. If a decision is made via email, it shall be documented in the meeting minutes or records. In cases of email decision-making, a reasonable timeframe shall be set for committee members to respond, and decisions shall be based on the responses received within that timeframe. In the event of a tie in voting, the Chair shall have the casting vote to break the tie and make the final decision.
+
+Detailed minutes of the meeting or audio recordings shall be taken during local branch committee meetings to record discussions, decisions, and actions. The minutes or recordings shall be circulated to all committee members within a reasonable timeframe after the meeting and maintained as official records of the local branch.
+
+These local branch committee meetings shall serve as a mechanism for local branches to effectively coordinate their activities, engage with members, and address regional matters in alignment with the party's mission and constitution. Local branches may establish their own by-laws for the operation of their committees, which shall be consistent with the party's constitution and approved by the NEC.
 
 # Section 15: By-Laws
-
-## Purpose of By-Laws
-
+### 15.1 Purpose of By-Laws
 By-laws serve as supplementary regulations to the party's constitution. They provide additional details, procedures, and guidelines to ensure the effective functioning of the party and its various units, including branches, committees, and working groups.
 
 By-laws are intended to clarify and operationalize the principles and provisions outlined in the party's constitution.
 
-## Adoption and Amendment of By-Laws
-
+### 15.2 Adoption and Amendment of By-Laws
 By-laws may be adopted or amended by a vote of the National Executive Committee (NEC) or by a vote of the party membership, as specified in the party's constitution.
 
 Proposed by-laws or amendments to existing by-laws must be submitted in writing to the NEC or the relevant governing body, and they shall be subject to review and approval in accordance with the procedures outlined in the party's constitution.
 
 The adoption or amendment of by-laws shall require a clear majority vote, as specified in the party's constitution.
 
-## Types of By-Laws
-
+### 15.3 Types of By-Laws
 By-laws may cover a wide range of topics, including but not limited to:
 
-a. The structure and operation of local branches.
+1. The structure and operation of local branches.
 
-b. The establishment and functioning of committees and working groups.
+1. The establishment and functioning of committees and working groups.
 
-c. Procedures for conducting party meetings requirements.
+1. Procedures for conducting party meetings requirements.
 
-d. Guidelines for financial management, reporting, and accountability, in compliance with the party's Financial scheme and applicable law.
+2. Codes of conduct and ethical standards for party members and officers.
 
-e. Codes of conduct and ethical standards for party members and officers.
+3. Rules and procedures for candidate selection and election campaigns.
 
-f. Rules and procedures for candidate selection and election campaigns.
-
-g. Compliance with the party's constitution, Financial scheme, and the law, and any other matters necessary for the efficient operation of the party.
+4. Compliance with the party's constitution, Financial scheme, and the law, and any other matters necessary for the efficient operation of the party.
 
 By-laws may be specific to different units or levels of the party, provided that they do not conflict with the party's constitution.
 
-## Transparency and Accessibility
-
+### 15.4 Transparency and Accessibility
 All adopted by-laws and amendments shall be made readily accessible to party members through the party's official website or other appropriate means.
 
 Party members shall have the right to request copies of by-laws and receive information regarding any recent amendments.
 
-## Compliance with Constitution, Financial Scheme, and Law
+## 15.4 Transparency and Accessibility
+All adopted by-laws and amendments shall be made readily accessible to party members through the party's official website or other appropriate means.
 
-By-laws shall ensure compliance with the party's constitution, Financial scheme, and applicable law. They shall outline the procedures and responsibilities for financial reporting, transparency, and accountability, in accordance with the party's financial policies and legal requirements.
+Party members shall have the right to request copies of by-laws and receive information regarding any recent amendments.
 
-## Review and Revision
+## 15.5 Compliance with Constitution
+The party's constitution is the foundational document that establishes the fundamental principles, structure, and rules governing the party. In all matters, the party's constitution shall hold supreme authority, second only to the law and the financial scheme.
 
+All by-laws, rules, and procedures outlined herein shall be in strict alignment with the provisions and principles set forth in the party's constitution. In the event of any inconsistency or conflict between the constitution and these by-laws, the constitution shall prevail.
+
+## 15.6 Compliance with Financial Scheme
+The party's financial scheme outlines the policies and procedures related to the management of party finances. By-laws shall ensure compliance with the party's financial scheme, including procedures and responsibilities for financial reporting, transparency, and accountability, in accordance with legal requirements.
+
+## 15.7 Compliance with Applicable Law
+In all matters, the Applicable Law shall hold supreme authority. By-laws shall also ensure compliance with applicable laws and regulations. They shall outline the procedures and responsibilities necessary to adhere to legal requirements in all party activities.
+
+
+### 15.6 Review and Revision
 By-laws shall be subject to periodic review to ensure their relevance and effectiveness in supporting the party's mission and goals.
 
 The NEC or the relevant governing body shall oversee the review and revision of by-laws, and proposed changes shall be presented for approval in accordance with the procedures outlined in the party's constitution.
 
 Party members are encouraged to provide input and feedback on by-laws to contribute to their improvement and alignment with the party's values and objectives.
 
-## Enforceability
+### 15.7 Enforceability
 By-laws are binding on all party members, officers, and units. Failure to comply with by-laws may result in disciplinary action in accordance with the party's constitution and established procedures.
 
 Disputes related to the interpretation or application of by-laws shall be resolved through established party grievance procedures or other appropriate mechanisms as specified in the party's constitution.
@@ -404,13 +469,17 @@ Disputes related to the interpretation or application of by-laws shall be resolv
 
 1. Pirate Party UK recognizes the importance of specialized groups known as "Working Groups" to focus on specific policy areas, projects, or initiatives in alignment with the party's goals and principles.
 
-2. Working Groups may be established to conduct in-depth research, develop policies, plan campaigns, or undertake other activities that contribute to the advancement of the Pirate Party UK's mission and objectives.
+2. Working Groups may be established by the following entities:
+
+   a. Local Branches: Local branches of Pirate Party UK may establish Working Groups to address local or regional issues, campaigns, or initiatives.
+
+   b. National Executive Committee (NEC): The NEC may establish Working Groups to address national or overarching party-related matters.
 
 3. The creation and dissolution of Working Groups shall be governed by the procedures outlined in this constitution and any accompanying internal rules and guidelines.
 
 #### (b) Composition and Leadership
 
-1. Each Working Group shall consist of members in Good Standing, as defined in Section XX of this constitution, who have expressed an interest in joining the specific Working Group and have been approved by the group's leadership.
+1. Each Working Group shall consist of members in Good Standing, as defined in Section XX of this constitution, or individuals approved by the respective authorizing entity (Local Branch or NEC), who have expressed an interest in joining the specific Working Group and have been authorized by the group's leadership.
 
 2. Working Groups shall be led by a Coordinator or Convenor, who shall be responsible for organizing and coordinating the activities of the Working Group.
 
@@ -420,17 +489,13 @@ Disputes related to the interpretation or application of by-laws shall be resolv
 
 1. Working Groups may engage in a variety of functions and activities, including but not limited to:
 
-  a. Conducting research and analysis related to their designated policy area.
+   a. Conducting research and analysis related to their designated policy area.
+   b. Developing and proposing policies and positions for adoption by the party.
+   c. Planning and executing campaigns or initiatives related to their focus area.
+   d. Collaborating with party officials and members to promote their objectives.
+   e. Contributing to the development of the party's election platform.
 
-  b. Developing and proposing policies and positions for adoption by the party.
-
-  c. Planning and executing campaigns or initiatives related to their focus area.
-
-  d. Collaborating with party officials and members to promote their objectives.
-
-  e. Contributing to the development of the party's election platform.
-
-2. The specific objectives, goals, and activities of each Working Group shall be outlined in their respective charters, which shall be approved by the National Executive Committee (NEC) and adhered to by the Working Group.
+2. The specific objectives, goals, and activities of each Working Group shall be outlined in their respective charters, which shall be approved by the authorizing entity (Local Branch or NEC) and adhered to by the Working Group.
 
 #### (d) Meetings
 
@@ -444,28 +509,36 @@ Disputes related to the interpretation or application of by-laws shall be resolv
 
 5. Meeting minutes or records shall be maintained for all Working Group meetings, documenting discussions, decisions, and actions taken during the meetings.
 
-6. The outcomes and recommendations of Working Group meetings may be presented to the NEC or General Meetings for consideration and action, as appropriate.
+6. The outcomes and recommendations of Working Group meetings may be presented to the authorizing entity (Local Branch or NEC) for consideration and action, as appropriate.
 
-#### (e) Collaboration with External Organizations
+#### (e) Financial Management
+
+1. Financial management for Working Groups shall be the responsibility of the NEC treasurer.
+
+2. Working Groups are not considered financial autonomous units and do not require separate financial oversight.
+
+3. While Working Groups do not have separate financial autonomy, they are encouraged to actively engage with NEC treasurer for financial planning and reporting purposes. This collaboration ensures transparency and accountability in financial matters related to Working Groups activities.
+
+#### (f) Collaboration with External Organizations
 
 1. Working Groups may seek opportunities for collaboration with external organizations, including but not limited to international bodies such as Pirate Parties International (PPI), to further the party's goals and objectives.
 
-2. Any collaboration with external organizations shall be conducted in accordance with the principles and values of Pirate Party UK and shall be subject to approval by the NEC.
+2. Any collaboration with external organizations shall be conducted in accordance with the principles and values of Pirate Party UK and shall be subject to approval by the authorizing entity (Local Branch or NEC).
 
-3. The results and outcomes of any collaboration with external organizations shall be reported to the NEC and may be presented to General Meetings for information and review.
+3. The results and outcomes of any collaboration with external organizations shall be reported to the authorizing entity (Local Branch or NEC) and may be presented to General Meetings for information and review.
 
-#### (f) Reporting and Accountability
+#### (g) Reporting and Accountability
 
-1. Working Groups shall provide regular reports on their activities, progress, and recommendations to the NEC and, where applicable, to General Meetings of Pirate Party UK.
+1. Working Groups shall provide regular reports on their activities, progress, and recommendations to the authorizing entity (Local Branch or NEC) and, where applicable, to General Meetings or Local Branch meetings of Pirate Party UK.
 
-2. The NEC shall oversee the activities of Working Groups to ensure alignment with the party's principles and goals.
+2. The authorizing entity (Local Branch or NEC) shall oversee the activities of Working Groups established under their authority to ensure alignment with the party's principles and goals.
 
-3. Working Groups shall be accountable to the NEC and shall cooperate with other party bodies as necessary to achieve their objectives.
+3. Working Groups shall be accountable to the authorizing entity (Local Branch or NEC) and shall cooperate with other party bodies as necessary to achieve their objectives.
 
-#### (g) Dissolution
+#### (h) Dissolution
 
-1. A Working Group may be dissolved by a decision of the NEC if it is determined that the group no longer serves a useful purpose or if its activities are deemed contrary to the principles and goals of Pirate Party UK.
+1. A Working Group may be dissolved by a decision of the authorizing entity (Local Branch or NEC) or by the NEC if it is determined that the group no longer serves a useful purpose or if its activities are deemed contrary to the principles and goals of Pirate Party UK.
 
-2. A proposal for the dissolution of a Working Group may be initiated by the NEC or by a petition signed by a specified percentage of party members, as determined by the NEC.
+2. A proposal for the dissolution of a Working Group may be initiated by the authorizing entity (Local Branch or NEC) or by the NEC or by a petition signed by a specified percentage of party members, as determined by the authorizing entity (Local Branch or NEC) or by the NEC.
 
-3. Dissolution shall be subject to approval by a majority vote of the NEC, with due consideration of the reasons for dissolution presented in the proposal.
+3. Dissolution shall be subject to approval by a majority vote of the authorizing entity (Local Branch or NEC), with due consideration of the reasons for dissolution presented in the proposal. or by the NEC
