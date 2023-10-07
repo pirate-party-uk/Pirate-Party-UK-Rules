@@ -463,82 +463,76 @@ By-laws are binding on all party members, officers, and units. Failure to comply
 Disputes related to the interpretation or application of by-laws shall be resolved through established party grievance procedures or other appropriate mechanisms as specified in the party's constitution.
 
 
-### Section 16: Working Groups
+Section XX: Subcommittees and Working Groups
 
-#### (a) Purpose and Establishment
+1. Purpose and Establishment
 
-1. Pirate Party UK recognizes the importance of specialized groups known as "Working Groups" to focus on specific policy areas, projects, or initiatives in alignment with the party's goals and principles.
+1.1. The Pirate Party UK recognizes the importance of specialized groups known as "Subcommittees" and "Working Groups," each serving distinct purposes within the party's organizational structure.
 
-2. Working Groups may be established by the following entities:
+1.2. Subcommittees are established to address specific aspects, policy areas, or tasks within the committee's broader scope. They focus on dividing the workload, addressing specialized issues, or delving deeper into specific areas of interest. Subcommittees are generally more long-term and may be an ongoing part of the party's structure.
 
-   a. Local Branches: Local branches of Pirate Party UK may establish Working Groups to address local or regional issues, campaigns, or initiatives.
+1.3. Working Groups, on the other hand, are formed to address specific problems, projects, or tasks that may not necessarily fall within a larger committee's scope. They are often temporary and task-oriented, with the aim of achieving a particular goal or deliverable. Working Groups may be created and dissolved based on the party's evolving needs and priorities.
 
-   b. National Executive Committee (NEC): The NEC may establish Working Groups to address national or overarching party-related matters.
+1.4. The creation and dissolution of Subcommittees and Working Groups shall be governed by the procedures outlined in this constitution and any accompanying internal rules and guidelines.
 
-3. The creation and dissolution of Working Groups shall be governed by the procedures outlined in this constitution and any accompanying internal rules and guidelines.
+2. Composition and Leadership
 
-#### (b) Composition and Leadership
+2.1. Each Subcommittees and Working Groups shall consist of members in Good Standing, as defined in Section XX of this constitution, or individuals approved by the respective authorizing entity (Local Branch or NEC), who have expressed an interest in joining the specific Subcommittees or Working Group and have been authorized by the group's leadership.
 
-1. Each Working Group shall consist of members in Good Standing, as defined in Section XX of this constitution, or individuals approved by the respective authorizing entity (Local Branch or NEC), who have expressed an interest in joining the specific Working Group and have been authorized by the group's leadership.
+2.2. Subcommittees and Working Groups shall be led by a Coordinator or Convenor, who shall be responsible for organizing and coordinating the activities of the Subcommittees or Working Group.
 
-2. Working Groups shall be led by a Coordinator or Convenor, who shall be responsible for organizing and coordinating the activities of the Working Group.
+2.3. The Coordinator or Convenor shall be elected or appointed in accordance with the internal rules and guidelines established for each Subcommittees or Working Group.
 
-3. The Coordinator or Convenor shall be elected or appointed in accordance with the internal rules and guidelines established for each Working Group.
+3. Functions and Activities
 
-#### (c) Functions and Activities
+3.1. Subcommittees shall primarily engage in task-based activities, focusing on specific objectives, policy areas, or projects that align with the broader committee's goals.
 
-1. Working Groups may engage in a variety of functions and activities, including but not limited to:
+3.2. Working Groups, on the other hand, may be created to address particular problems, projects, or goals, and they shall be dissolved upon the completion of their designated task or goal.
 
-   a. Conducting research and analysis related to their designated policy area.
-   b. Developing and proposing policies and positions for adoption by the party.
-   c. Planning and executing campaigns or initiatives related to their focus area.
-   d. Collaborating with party officials and members to promote their objectives.
-   e. Contributing to the development of the party's election platform.
+3.3. The specific objectives, goals, and activities of each Subcommittees and Working Group shall be outlined in their respective charters, which shall be approved by the authorizing entity (Local Branch or NEC) and adhered to by the Subcommittees or Working Group.
 
-2. The specific objectives, goals, and activities of each Working Group shall be outlined in their respective charters, which shall be approved by the authorizing entity (Local Branch or NEC) and adhered to by the Working Group.
+4. Meetings
 
-#### (d) Meetings
+4.1. Subcommittees and Working Groups shall convene regular meetings to facilitate their activities and objectives.
 
-1. Working Groups shall convene regular meetings to facilitate their activities and objectives.
+4.2. The frequency of Subcommittees and Working Group meetings shall be determined by each Subcommittees and Working Group's leadership but should occur regularly to ensure progress toward their goals.
 
-2. The frequency of Working Group meetings shall be determined by each Working Group's leadership but should occur regularly to ensure progress toward their goals.
+4.3. The timing and type (in-person, virtual, or a combination) of Subcommittees and Working Group meetings shall be established by the Coordinator or Convenor and communicated to Subcommittees and Working Group members in advance.
 
-3. The timing and type (in-person, virtual, or a combination) of Working Group meetings shall be established by the Coordinator or Convenor and communicated to Working Group members in advance.
+4.4. Quorum for Subcommittees and Working Group meetings shall be defined by the internal rules and guidelines of each Subcommittees and Working Group but should ensure a sufficient level of participation for decision-making.
 
-4. Quorum for Working Group meetings shall be defined by the internal rules and guidelines of each Working Group but should ensure a sufficient level of participation for decision-making.
+4.5. Meeting minutes or records shall be maintained for all Subcommittees and Working Group meetings, documenting discussions, decisions, and actions taken during the meetings.
 
-5. Meeting minutes or records shall be maintained for all Working Group meetings, documenting discussions, decisions, and actions taken during the meetings.
+5. Financial Management
 
-6. The outcomes and recommendations of Working Group meetings may be presented to the authorizing entity (Local Branch or NEC) for consideration and action, as appropriate.
+5.1. Financial management for Subcommittees and Working Groups shall be the responsibility of the NEC treasurer.
 
-#### (e) Financial Management
+5.2. Subcommittees and Working Groups are not considered financial autonomous units and do not require separate financial oversight.
 
-1. Financial management for Working Groups shall be the responsibility of the NEC treasurer.
+5.3. While Subcommittees and Working Groups do not have separate financial autonomy, they are encouraged to actively engage with the NEC treasurer for financial planning and reporting purposes. This collaboration ensures transparency and accountability in financial matters related to Subcommittees and Working Groups activities.
 
-2. Working Groups are not considered financial autonomous units and do not require separate financial oversight.
+6. Collaboration with External Organizations
 
-3. While Working Groups do not have separate financial autonomy, they are encouraged to actively engage with NEC treasurer for financial planning and reporting purposes. This collaboration ensures transparency and accountability in financial matters related to Working Groups activities.
+6.1. Subcommittees and Working Groups may seek opportunities for collaboration with external organizations, including but not limited to international bodies such as Pirate Parties International (PPI), to further the party's goals and objectives.
 
-#### (f) Collaboration with External Organizations
+6.2. Any collaboration with external organizations shall be conducted in accordance with the principles and values of Pirate Party UK and shall be subject to approval by the authorizing entity (Local Branch or NEC).
 
-1. Working Groups may seek opportunities for collaboration with external organizations, including but not limited to international bodies such as Pirate Parties International (PPI), to further the party's goals and objectives.
+6.3. The results and outcomes of any collaboration with external organizations shall be reported to the authorizing entity (Local Branch or NEC) and may be presented to General Meetings for information and review.
 
-2. Any collaboration with external organizations shall be conducted in accordance with the principles and values of Pirate Party UK and shall be subject to approval by the authorizing entity (Local Branch or NEC).
+7. Reporting and Accountability
 
-3. The results and outcomes of any collaboration with external organizations shall be reported to the authorizing entity (Local Branch or NEC) and may be presented to General Meetings for information and review.
+7.1. Subcommittees and Working Groups shall provide regular reports on their activities, progress, and recommendations to the authorizing entity (Local Branch or NEC) and, where applicable, to General Meetings or Local Branch meetings of Pirate Party UK.
 
-#### (g) Reporting and Accountability
+7.2. The authorizing entity (Local Branch or NEC) shall oversee the activities of Subcommittees and Working Groups established under their authority to ensure alignment with the party's principles and goals.
 
-1. Working Groups shall provide regular reports on their activities, progress, and recommendations to the authorizing entity (Local Branch or NEC) and, where applicable, to General Meetings or Local Branch meetings of Pirate Party UK.
+7.3. Subcommittees and Working Groups shall be accountable to the authorizing entity (Local Branch or NEC) and shall cooperate with other party bodies as necessary to achieve their objectives.
 
-2. The authorizing entity (Local Branch or NEC) shall oversee the activities of Working Groups established under their authority to ensure alignment with the party's principles and goals.
+8. Dissolution
 
-3. Working Groups shall be accountable to the authorizing entity (Local Branch or NEC) and shall cooperate with other party bodies as necessary to achieve their objectives.
+8.1. A Subcommittees or Working Group may be dissolved by a decision of the authorizing entity (Local Branch or NEC) or by the NEC if it is determined that the group no longer serves a useful purpose, if its activities are deemed contrary to the principles and goals of Pirate Party UK, or upon the completion of their designated task or goal.
 
-#### (h) Dissolution
+8.2. A proposal for the dissolution of a Subcommittees or Working Group may be initiated by the authorizing entity (Local Branch or NEC), by the NEC, or by a petition signed by a specified percentage of party members, as determined by the authorizing entity (Local Branch or NEC) or by the NEC.
 
-1. A Working Group may be dissolved by a decision of the authorizing entity (Local Branch or NEC) or by the NEC if it is determined that the group no longer serves a useful purpose or if its activities are deemed contrary to the principles and goals of Pirate Party UK.
+8.3. Dissolution shall be subject to approval by a majority vote of the authorizing entity (Local Branch or NEC), with due consideration of the reasons for dissolution presented in the proposal. or by the NEC.
 
-2. A proposal for the dissolution of a Working Group may be initiated by the authorizing entity (Local Branch or NEC) or by the NEC or by a petition signed by a specified percentage of party members, as determined by the authorizing entity (Local Branch or NEC) or by the NEC.
 
-3. Dissolution shall be subject to approval by a majority vote of the authorizing entity (Local Branch or NEC), with due consideration of the reasons for dissolution presented in the proposal. or by the NEC
