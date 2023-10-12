@@ -172,8 +172,8 @@ Any candidates that won more votes than RON will be elected on the strength of t
 In cases where the nomination process for external elections (e.g., Supranational, Westminster parliamentary, or local elections) cannot be completed within the specified deadline or under exceptional circumstances, Pirate Party UK shall follow an alternative process to ensure candidate selection and representation.
 
 ### 9.12 Fallback Process
-For external elections, the sole fallback option is the Nominating Officer's Selection. If the nomination process cannot be completed within the specified deadline or under exceptional circumstances, the Nominating Officer shall have the authority to select candidates for external elections.
-
+For external elections, the sole fallback option is the Nominating Officer's Selection.
+If the nomination process cannot be completed within the specified deadline , under exceptional circumstances or at the wim of Nominating Officer, the Nominating Officer shall have the authority to select candidates for external elections.
 
 ### 9.13 Local Branch Committee Elections
 
