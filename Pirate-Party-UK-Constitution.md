@@ -325,7 +325,7 @@ A quorum for general meetings shall be determined by the NEC and communicated in
 
 The quorum shall typically be set as a percentage of eligible members, ensuring that the meeting has a sufficient level of participation for decision-making.
 
-all General Meetings and NEC shall have a quorum of 51% of NEC officeses.
+all General Meetings and NEC shall have a quorum typically be set as a percentage of  NEC officeses.
 
 #### 14.3 Business Conducted
 General meetings may address a range of party-related matters, including but not limited to:
