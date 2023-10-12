@@ -172,11 +172,8 @@ Any candidates that won more votes than RON will be elected on the strength of t
 In cases where the nomination process for external elections (e.g., Supranational, Westminster parliamentary, or local elections) cannot be completed within the specified deadline or under exceptional circumstances, Pirate Party UK shall follow an alternative process to ensure candidate selection and representation.
 
 ### 9.12 Fallback Process
-For external elections, the following fallback options may be considered by the NEC if the nomination process cannot be completed within the specified deadline or under exceptional circumstances:
+For external elections, the sole fallback option is the Nominating Officer's Selection. If the nomination process cannot be completed within the specified deadline or under exceptional circumstances, the Nominating Officer shall have the authority to select candidates for external elections.
 
-1. NEC Vote (Second Preference): In exceptional cases where both the ERS97 STV and RON processes cannot be completed, the National Executive Committee (NEC) shall conduct a vote to select candidates for external elections.
-
-2. NEC Deferment to Local Branch: The NEC may choose to delegate the candidate selection process for external elections to the Local Branch if it deems it necessary or appropriate. Such a decision should take into account local factors, local expertise, and the principles of Pirate Party UK.
 
 ### 9.13 Local Branch Committee Elections
 
