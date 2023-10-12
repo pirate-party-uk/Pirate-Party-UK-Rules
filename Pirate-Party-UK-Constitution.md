@@ -308,15 +308,14 @@ all General Meetings and NEC shall have a quorum typically be set as a percentag
 #### 14.3 Business Conducted
 General meetings may address a range of party-related matters, including but not limited to:
 
-   1. Review and approval of financial reports.
    
-   2. Discussion of party policies and positions.
+   1. Discussion of party policies and positions.
    
-   3. Election of party officers and representatives.
+   2. Discussion Election of party officers and representatives.
    
-   4. Voting on proposed amendments to the party constitution.
+   3. Discussing and Voting on proposed amendments to the party constitution.
    
-   5. Consideration of urgent party matters.
+   4. Consideration of urgent party matters.
    
    6. Any other business relevant to the party's mission and operation.
 
