@@ -114,31 +114,16 @@ The Leader also becomes head of department for any vacant positions unless an In
 Responsible for the party's finances, including membership fees and campaign expenditure, and is legally responsible for making sure that the party complies with the Political Parties, Elections, and Referendums Act (2000). The Electoral Commission's guidance for treasurers provides more details of what the role's legal responsibilities entail. Within the party, the Treasurer is expected to process new memberships, as well as to manage and review existing memberships. The Treasurer is also responsible for fundraising and for reporting national campaign spending to the Electoral Commission.
 
 ### The Nominating Officer
-Responsible for running internal elections and for authorizing candidates to stand on behalf of the party (official responsibilities outlined in the Representation of the People Act 1983), as well as for keeping the NEC up to date with election timetables as released by the Electoral Commission. The Nominating Officer is also expected to assist candidates with completion of nomination forms and other paperwork, and to maintain party details with the Electoral Commission.
-
-The following roles are optional and can be added or removed by the NEC as needed:
-
-### The Campaigns Officer
-Responsible for internal and external campaigns, including conferences, demonstrations, and political awareness, as well as supporting candidates during election campaigning and coordinating press responses. Support for local campaigns may include research, printed material, web resources, and press support. The Campaigns team helps the Treasury team in relation to fundraising.
-
-### The Deputy Leader
-Supports the Leader in this role. In the event the Leader position is vacant, the Deputy Leader, for all intents and purposes, becomes the Acting Leader. Once an election has run and a new Leader has been elected, the then Acting Leader reverts to the Deputy Leader.
-
-### The Secretary
-9.1 Acts as the party's Data Controller, responsible for handling stored data and making sure we comply with Data Protection laws. The Secretary also organizes and minutes NEC meetings and oversees the Secretariat, which manages party-internal communication, including answering and maintaining the party's membership base. As Data Controller, the Secretary should ensure that the party only collects personal data when necessary, that this data is stored with adequate safeguards, that access to this data is limited, and that members are aware of the party's privacy policy (for which the Secretary is responsible).
+The Nominating Officer is primarily responsible for running internal elections and authorizing candidates to represent the party in accordance with the Representation of the People Act 1983. They also ensure the NEC stays informed about election timetables from the Electoral Commission. Additionally, the Nominating Officer collaborates with the Campaigns team to appoint election candidates, handles requests from local authority Electoral Services Units, ensures proper completion of external election paperwork, offers guidance to the NEC and election candidates, and manages internal elections efficiently
 
 The NEC must ensure that newly elected officers understand their roles and responsibilities under the law, where applicable, and that they understand their departmental aims and are aware of the resources available to run them. Any officer may be supported in their role by additional non-elected deputies when the need arises and when the resources are available.
-
-The NEC can vote to appoint or remove these optional roles as needed.
-
-
 
 ## (7) DISSOLUTION OF THE PARTY
 The party may be dissolved by a simple majority of members making clear their wish to dissolve the party. Any assets belonging to the party at the time of dissolution will be donated to a registered charity of the NEC’s choosing.
 
 ## (9) ELECTIONS
 ### 9.1 Election Types
-All elected  positions shall be elected using the ERS97 STV process both for internal NEC and selectioning candidate for external  elections.
+All elected positions shall be filled through the ERS97 STV process, both for internal NEC elections. If the Nominating Officer deems it necessary, this process may also be used for candidate selection in external elections.
 
 ### 9.2 Nominations
 When an election is due, the NEC will announce the opening of nominations. Upon opening, the NEC will publish the date and time that nominations close. The duration of the nomination period must be no less than 14 days and no more than 31 days. This duration may not be altered except as defined below.
