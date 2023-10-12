@@ -463,7 +463,7 @@ By-laws are binding on all party members, officers, and units. Failure to comply
 Disputes related to the interpretation or application of by-laws shall be resolved through established party grievance procedures or other appropriate mechanisms as specified in the party's constitution.
 
 
-Section XX: Subcommittees and Working Groups
+Section 16: Subcommittees and Working Groups
 
 1. Purpose and Establishment
 
@@ -477,7 +477,7 @@ Section XX: Subcommittees and Working Groups
 
 2. Composition and Leadership
 
-2.1. Each Subcommittees and Working Groups shall consist of members in Good Standing, as defined in Section XX of this constitution, or individuals approved by the respective authorizing entity (Local Branch or NEC), who have expressed an interest in joining the specific Subcommittees or Working Group and have been authorized by the group's leadership.
+2.1. Each Subcommittees and Working Groups shall consist of members in Good Standing, as defined in Section 10.4 of this constitution, or individuals approved by the respective authorizing entity (Local Branch or NEC), who have expressed an interest in joining the specific Subcommittees or Working Group and have been authorized by the group's leadership.
 
 2.2. Subcommittees and Working Groups shall be led by a Coordinator or Convenor, who shall be responsible for organizing and coordinating the activities of the Subcommittees or Working Group.
 
