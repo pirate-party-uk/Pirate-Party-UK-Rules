@@ -174,9 +174,6 @@ Elections must be held no less frequently than every 25 months for all positions
 ### 9.8 Electorate
 All party members in Good Standing (as defined in Section 10) are eligible to vote in all elections unless otherwise specified in this constitution.
 
-### 9.9 Extraordinary Elections
-When an elected position is vacant outside of the normal election terms, an election process for the position will be held following the rules in Section 9. These extraordinary procedures should ordinarily begin within 30 days of the position becoming vacant.
-
 ### 9.10 Election Procedures
 The NEC is responsible for making sure all election and vote procedures are followed.
 
