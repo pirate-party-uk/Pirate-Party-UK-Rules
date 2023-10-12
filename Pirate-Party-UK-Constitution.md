@@ -131,8 +131,7 @@ The NEC must ensure that newly elected officers understand their roles and respo
 
 The NEC can vote to appoint or remove these optional roles as needed.
 
-## (6) FINANCIAL OBLIGATIONS
-The NEC shall designate a voting NEC member who is responsible to the party for the management of the party’s finances.
+
 
 ## (7) DISSOLUTION OF THE PARTY
 The party may be dissolved by a simple majority of members making clear their wish to dissolve the party. Any assets belonging to the party at the time of dissolution will be donated to a registered charity of the NEC’s choosing.
