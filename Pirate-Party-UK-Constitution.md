@@ -400,9 +400,6 @@ By-laws may cover a wide range of topics, including but not limited to:
 
 2. Codes of conduct and ethical standards for party members and officers.
 
-3. Rules and procedures for candidate selection and election campaigns.
-
-4. Compliance with the party's constitution, Financial scheme, and the law, and any other matters necessary for the efficient operation of the party.
 
 By-laws may be specific to different units or levels of the party, provided that they do not conflict with the party's constitution.
 
