@@ -32,18 +32,18 @@ In the furtherance of its aims, the Party may:
 - Invest any monies of the Party not immediately required, in accordance with the Trustee Act of 1925.
 - Do all such other lawful things as are necessary for the attainment of the Party’s aims.
 
-### 14. BRANCHES
+### 3.14. BRANCHES
 
-#### 14.1 Local Branches
+#### 3.14.1 Local Branches
 Pirate Party UK may establish branches at the local or regional level, subject to approval by the NEC. Branches shall be responsible for organizing local activities and promoting the Party's aims and objectives within their respective areas.
 
-#### 14.2 Establishment and Autonomy
+#### 3.14.2 Establishment and Autonomy
 Branches shall have the autonomy to manage their internal affairs, including the election of branch officers and the development of branch-specific by-laws, provided that such by-laws are consistent with the party's constitution and approved by the NEC.
 
-#### 14.3 Support and Guidance
+#### 3.14.3 Support and Guidance
 The NEC shall provide guidance and support to branches to facilitate their effective operation and alignment with the party's overall goals. This support may include training, resources, and access to the party's communication platforms.
 
-#### 14.4 Communication and Updates
+#### 3.14.4 Communication and Updates
 Branches shall maintain regular communication with the NEC and provide updates on their activities, achievements, and challenges. This communication shall ensure coordination between the central party and its local branches.
 
 #### 14.5 Local Branch Roles
@@ -65,19 +65,19 @@ Local branches may establish the following roles to support their activities and
 
 8. **Branch Outreach Officer:** Engages with the local community and external organizations on behalf of the branch.
 
-#### 14.6 Recognition and Accreditation
+#### 3.14.6 Recognition and Accreditation
 The NEC may establish criteria for the recognition and accreditation of branches. Such criteria may include minimum membership thresholds, adherence to the party's constitution, and regular reporting of branch activities.
 
-#### 14.7 Active Participation
+#### 3.14.7 Active Participation
 Branches shall encourage active participation by party members within their geographic areas and foster a sense of community and shared purpose among members.
 
-#### 14.8 Dissolution and Governance
+#### 3.14.8 Dissolution and Governance
 The NEC may dissolve or suspend a branch in cases of gross misconduct, repeated violations of party policies, or failure to meet established criteria for recognition. The establishment, operation, and dissolution of branches shall be governed by procedures outlined in the party's constitution and any relevant by-laws.
 
-#### 14.9 Collaboration and Expansion
+#### 3.14.9 Collaboration and Expansion
 Branches shall collaborate with other branches and party units to enhance the overall effectiveness and reach of the Pirate Party UK in advancing its mission and objectives. The party shall encourage the establishment of branches in regions where there is a significant concentration of party members, with the aim of extending the party's influence and impact at the local level.
 
-#### 14.10 Accountability and Financial Management
+#### 3.14.10 Accountability and Financial Management
 Branches shall be accountable to the NEC and the party membership for their actions and decisions, ensuring alignment with the party's values and objectives. Financial management for branches shall be the responsibility of the NEC treasurer. Branches are not considered financial autonomous units and do not require separate financial oversight. While branches do not have separate treasurers or financial autonomy, they are encouraged to actively engage with the NEC treasurer for financial planning and reporting purposes. This collaboration ensures transparency and accountability in financial matters related to branch activities.
 
 
@@ -241,7 +241,7 @@ The eligibility of a member to vote in a particular vote of no confidence will b
 A member is regarded as being in Good Standing if they are a paid-up member and have not had their position of Good Standing stripped from them.
 
 
-## 10: REPLACEMENT OF OFFICERS IN AN EMERGENCY
+## (10) REPLACEMENT OF OFFICERS IN AN EMERGENCY
 
 In the event of an emergency or an urgent need to replace an officer on the National Executive Committee (NEC) before a regular election can be held, the following process will apply:
 
@@ -263,7 +263,7 @@ In cases where the Leader's position is vacant, and despite reasonable efforts, 
 In such a case, the Party shall take all necessary steps to initiate the dissolution process. Any remaining Party assets, after settling outstanding obligations, shall be donated to a registered charity.
 
 
-## Section 12: Financial Management
+## (11) Financial Management
 
 The financial management of Pirate Party UK shall be governed by the provisions set forth in the Financial Scheme adopted by the Party, in compliance with the Political Parties, Elections and Referendums Act 2000 (the Act).
 
@@ -286,7 +286,7 @@ The Party acknowledges that failure to comply with its legal obligations, as out
 
 The Party shall promote compliance with the Act and its legal financial obligations among its members and officers, as outlined in the Financial Scheme.
 
-### Section 12: AMENDING THE CONSTITUTION
+### (12) AMENDING THE CONSTITUTION
 
 #### 12.1 Proposing Amendments
 Any member of Pirate Party UK may propose amendments to this constitution by submitting the proposed changes in writing to the National Executive Committee (NEC).
@@ -318,24 +318,24 @@ Emergency amendments shall be clearly communicated to the Party's membership, an
 
 
 
-### Section 13: PARTY MEETINGS
+### (15) PARTY MEETINGS
 
 
-#### 13.1 General Meetings
+#### 15.1 General Meetings
 Pirate Party UK shall hold regular general meetings, as required, to conduct party business, discuss issues, and facilitate member participation.
 
 General meetings may be held in-person or virtually, as determined by the National Executive Committee (NEC) or in accordance with any applicable regulations or restrictions.
 
 Party members in Good Standing, as defined in Section 10, are eligible to attend and participate in general meetings.
 
-#### 13.2 Quorum
+#### 15.2 Quorum
 A quorum for general meetings shall be determined by the NEC and communicated in advance to members.
 
 The quorum shall typically be set as a percentage of eligible members, ensuring that the meeting has a sufficient level of participation for decision-making.
 
 all General Meetings and NEC shall have a quorum typically be set as a percentage of  NEC officeses.
 
-#### 13.3 Business Conducted
+#### 15.3 Business Conducted
 General meetings may address a range of party-related matters, including but not limited to:
 
    
@@ -351,7 +351,7 @@ General meetings may address a range of party-related matters, including but not
 
 The agenda for general meetings shall be prepared by the NEC or as specified in the party's internal rules and guidelines.
 
-### 13.4 Local Branch Meetings
+### 15.4 Local Branch Meetings
 
 Local branches of Pirate Party UK shall hold regular meetings to discuss regional matters, coordinate local activities, and engage with members in their respective areas.
 
@@ -380,7 +380,7 @@ The agenda for local branch meetings shall be prepared by the local branch leade
 Local branches may establish their own by-laws, which shall be consistent with the party's constitution and approved by the NEC. These by-laws may govern the organization and operation of the local branch, including the election of local branch officers, decision-making processes, and other matters specific to the local branch.
 
 
-### 13.5 NEC Meetings
+### 15.5 NEC Meetings
 The NEC shall hold regular meetings to discuss Party matters, make decisions, and review progress. Meetings may be conducted in person, online, or a combination of both, as determined by the NEC. NEC meetings are typically held on the PPUK Discord server, and the format may include both in-person and virtual attendance. Meetings will be announced no later than 7 days in advance, except in emergency situations, and are aimed to occur every 14 days.
 
 The Leader or a designated officer shall provide timely notice of the meeting, including the date, time, location (or virtual platform), and agenda. NEC Members may request items to be included in the agenda prior to the meeting. Additionally, NEC members who are unable to attend are expected to provide advance apologies. Other participants may join at the invitation of an NEC member, subject to no objections from other committee NEC members.
@@ -391,7 +391,7 @@ The NEC shall strive to make decisions through consensus, with each officer on t
 Detailed minutes of the meeting or audio recordings shall be taken during NEC meetings to record discussions, decisions, and actions. The minutes or recordings shall be circulated to all NEC members within a reasonable timeframe after the meeting and maintained as official records of the Party. NEC Members are encouraged to review these records after the meeting.
 
 
-###  13.6 Local Branch Committee Meetings
+###  15.6 Local Branch Committee Meetings
 Local branches of Pirate Party UK shall establish local branch committees responsible for coordinating branch activities and making decisions regarding local matters. These committees shall hold regular meetings to discuss branch affairs, plan events, and engage with branch members.
 
 Local branch committee meetings may be conducted in person, online, or through a combination of both, as determined by the local branch committee. Meetings will be announced to local branch members no later than 7 days in advance, except in emergency situations, and are aimed to occur at regular intervals.
@@ -406,15 +406,15 @@ Detailed minutes of the meeting or audio recordings shall be taken during local 
 
 These local branch committee meetings shall serve as a mechanism for local branches to effectively coordinate their activities, engage with members, and address regional matters in alignment with the party's mission and constitution. Local branches may establish their own by-laws for the operation of their committees, which shall be consistent with the party's constitution and approved by the NEC.
 
-# Section 14: By-Laws
-### 14.1 Purpose of By-Laws
+# (16) By-Laws
+### 16.1 Purpose of By-Laws
 
 By-laws serve as supplementary regulations to the party's constitution. They provide additional details, procedures, and guidelines to ensure the effective functioning of the party and its various units, including branches, committees, and working groups.
 
 By-laws are intended to clarify and operationalize the principles and provisions outlined in the party's constitution.
 
 
-### 14.2 Adoption and Amendment of By-Laws
+### 16.2 Adoption and Amendment of By-Laws
 
 By-laws may be adopted or amended by a vote of the National Executive Committee (NEC) or by a vote of the party membership, as specified in the party's constitution.
 
@@ -422,7 +422,7 @@ Proposed by-laws or amendments to existing by-laws must be submitted in writing 
 
 The adoption or amendment of by-laws shall require a clear majority vote, as specified in the party's constitution.
 
-### 14.3 Types of By-Laws
+### 16.3 Types of By-Laws
 By-laws may cover a wide range of topics, including but not limited to:
 
 1. The structure and operation of local branches.
@@ -436,66 +436,66 @@ By-laws may cover a wide range of topics, including but not limited to:
 
 By-laws may be specific to different units or levels of the party, provided that they do not conflict with the party's constitution.
 
-### 14.4 Transparency and Accessibility
+### 16.4 Transparency and Accessibility
 All adopted by-laws and amendments shall be made readily accessible to party members through the party's official website or other appropriate means.
 
 Party members shall have the right to request copies of by-laws and receive information regarding any recent amendments.
 
-## 14.4 Transparency and Accessibility
+## 16.6 Transparency and Accessibility
 All adopted by-laws and amendments shall be made readily accessible to party members through the party's official website or other appropriate means.
 
 Party members shall have the right to request copies of by-laws and receive information regarding any recent amendments.
 
-## 14.5 Compliance with Constitution
+## 16.7 Compliance with Constitution
 The party's constitution is the foundational document that establishes the fundamental principles, structure, and rules governing the party. In all matters, the party's constitution shall hold supreme authority, second only to the law and the financial scheme.
 
 All by-laws, rules, and procedures outlined herein shall be in strict alignment with the provisions and principles set forth in the party's constitution. In the event of any inconsistency or conflict between the constitution and these by-laws, the constitution shall prevail.
 
-## 14.6 Compliance with Financial Scheme
+## 16.8 Compliance with Financial Scheme
 The party's financial scheme outlines the policies and procedures related to the management of party finances. By-laws shall ensure compliance with the party's financial scheme, including procedures and responsibilities for financial reporting, transparency, and accountability, in accordance with legal requirements.
 
-## 14.7 Compliance with Applicable Law
+## 16.9 Compliance with Applicable Law
 In all matters, the Applicable Law shall hold supreme authority. By-laws shall also ensure compliance with applicable laws and regulations. They shall outline the procedures and responsibilities necessary to adhere to legal requirements in all party activities.
 
 
-### 14.6 Review and Revision
+### 16.10 Review and Revision
 By-laws shall be subject to periodic review to ensure their relevance and effectiveness in supporting the party's mission and goals.
 
 The NEC or the relevant governing body shall oversee the review and revision of by-laws, and proposed changes shall be presented for approval in accordance with the procedures outlined in the party's constitution.
 
 Party members are encouraged to provide input and feedback on by-laws to contribute to their improvement and alignment with the party's values and objectives.
 
-### 14.7 Enforceability
+### 16.11 Enforceability
 By-laws are binding on all party members, officers, and units. Failure to comply with by-laws may result in disciplinary action in accordance with the party's constitution and established procedures.
 
 Disputes related to the interpretation or application of by-laws shall be resolved through established party grievance procedures or other appropriate mechanisms as specified in the party's constitution.
 
 
-Section 16: Subcommittees and Working Groups
+## (17) Subcommittees and Working Groups
 
-16.1. Purpose and Establishment
+17.1. Purpose and Establishment
 
-16.1.1. The Pirate Party UK recognizes the importance of specialized groups known as "Subcommittees" and "Working Groups," each serving distinct purposes within the party's organizational structure.
+17.1.1. The Pirate Party UK recognizes the importance of specialized groups known as "Subcommittees" and "Working Groups," each serving distinct purposes within the party's organizational structure.
 
-16.1.2. Subcommittees are established to address specific aspects, policy areas, or tasks within the committee's broader scope. They focus on dividing the workload, addressing specialized issues, or delving deeper into specific areas of interest. Subcommittees are generally more long-term and may be an ongoing part of the party's structure.
+17.1.2. Subcommittees are established to address specific aspects, policy areas, or tasks within the committee's broader scope. They focus on dividing the workload, addressing specialized issues, or delving deeper into specific areas of interest. Subcommittees are generally more long-term and may be an ongoing part of the party's structure.
 
-16.1.3. Working Groups, on the other hand, are formed to address specific problems, projects, or tasks that may not necessarily fall within a larger committee's scope. They are often temporary and task-oriented, with the aim of achieving a particular goal or deliverable. Working Groups may be created and dissolved based on the party's evolving needs and priorities.
+17.1.3. Working Groups, on the other hand, are formed to address specific problems, projects, or tasks that may not necessarily fall within a larger committee's scope. They are often temporary and task-oriented, with the aim of achieving a particular goal or deliverable. Working Groups may be created and dissolved based on the party's evolving needs and priorities.
 
-16.1.4. The creation and dissolution of Subcommittees and Working Groups shall be governed by the procedures outlined in this constitution and any accompanying internal rules and guidelines.
+17.1.4. The creation and dissolution of Subcommittees and Working Groups shall be governed by the procedures outlined in this constitution and any accompanying internal rules and guidelines.
 
-16.2. Composition and Leadership
+17.2. Composition and Leadership
 
-16.2.1. Each Subcommittees and Working Groups shall consist of members in Good Standing, as defined in Section 10.4 of this constitution, or individuals approved by the respective authorizing entity (Local Branch or NEC), who have expressed an interest in joining the specific Subcommittees or Working Group and have been authorized by the group's leadership.
+17.2.1. Each Subcommittees and Working Groups shall consist of members in Good Standing, as defined in Section 10.4 of this constitution, or individuals approved by the respective authorizing entity (Local Branch or NEC), who have expressed an interest in joining the specific Subcommittees or Working Group and have been authorized by the group's leadership.
 
-16.2.2. Subcommittees and Working Groups shall be led by a Coordinator or Convenor, who shall be responsible for organizing and coordinating the activities of the Subcommittees or Working Group.
+17.2.2. Subcommittees and Working Groups shall be led by a Coordinator or Convenor, who shall be responsible for organizing and coordinating the activities of the Subcommittees or Working Group.
 
-16.2.3. The Coordinator or Convenor shall be elected or appointed in accordance with the internal rules and guidelines established for each Subcommittees or Working Group.
+17.2.3. The Coordinator or Convenor shall be elected or appointed in accordance with the internal rules and guidelines established for each Subcommittees or Working Group.
 
-16.3. Functions and Activities
+17.3. Functions and Activities
 
-16.3.1. Subcommittees shall primarily engage in task-based activities, focusing on specific objectives, policy areas, or projects that align with the broader committee's goals.
+17.3.1. Subcommittees shall primarily engage in task-based activities, focusing on specific objectives, policy areas, or projects that align with the broader committee's goals.
 
-16.3.2. Working Groups, on the other hand, may be created to address particular problems, projects, or goals, and they shall be dissolved upon the completion of their designated task or goal.
+17.3.2. Working Groups, on the other hand, may be created to address particular problems, projects, or goals, and they shall be dissolved upon the completion of their designated task or goal.
 
    a. Conducting research and analysis related to their designated policy area.
    b. Developing and proposing policies and positions for adoption by the party.
@@ -503,9 +503,9 @@ Section 16: Subcommittees and Working Groups
    d. Collaborating with party officials and members to promote their objectives.
    e. Contributing to the development of the party's election platform.
 
-2. The specific objectives, goals, and activities of each Working Group shall be outlined in their respective charters, which shall be approved by the authorizing entity (Local Branch or NEC) and adhered to by the Working Group.
+17.4. The specific objectives, goals, and activities of each Working Group shall be outlined in their respective charters, which shall be approved by the authorizing entity (Local Branch or NEC) and adhered to by the Working Group.
 
-16.4.5. Meeting minutes or records shall be maintained for all Subcommittees and Working Group meetings, documenting discussions, decisions, and actions taken during the meetings.
+16.. Meeting minutes or records shall be maintained for all Subcommittees and Working Group meetings, documenting discussions, decisions, and actions taken during the meetings.
 
 16.5. Financial Management
 
@@ -517,7 +517,7 @@ Section 16: Subcommittees and Working Groups
 
 16.6. Collaboration with External Organizations
 
-6. The outcomes and recommendations of Working Group meetings may be presented to the authorizing entity (Local Branch or NEC) for consideration and action, as appropriate.
+16.7. The outcomes and recommendations of Working Group meetings may be presented to the authorizing entity (Local Branch or NEC) for consideration and action, as appropriate.
 
 #### (e) Financial Management
 
