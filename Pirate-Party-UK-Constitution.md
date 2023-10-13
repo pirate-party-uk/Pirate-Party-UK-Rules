@@ -121,6 +121,7 @@ The NEC must ensure that newly elected officers understand their roles and respo
 ## (7) DISSOLUTION OF THE PARTY
 The party may be dissolved by a simple majority of members making clear their wish to dissolve the party. Any assets belonging to the party at the time of dissolution will be donated to a registered charity of the NEC’s choosing.
 
+
 ## (8) ELECTIONS
 ### 8.1 Election Types
 All elected positions shall be filled through the ERS97 STV process, both for internal NEC elections. If the Nominating Officer deems it necessary, this process may also be used for candidate selection in external elections.
@@ -148,9 +149,11 @@ Campaigning opens to coincide with the closing of nominations. Should the openin
 Voting must open to coincide with the closing of campaigning. Should the opening of voting be delayed, this additional time is to be considered an extension to the campaigning period. Voting must remain open for no less than 7 days and normally no more than 31 days.
 
 ### 8.6 Exclusions
+
 A member is excluded from standing for election and holding an elected position if they are not in Good Standing (as defined in Section 10).
 
 Some elected positions exclude those who already hold another elected position.
+
 
 ### 8.7 Election Terms
 Elections must be held no less frequently than every 25 months for all positions on the NEC, irrespective of how long each officer has been in post.
@@ -195,6 +198,26 @@ Local Branch Committee elections shall follow the same process as any other elec
 
 - The campaigning and voting periods for Local Branch Committee elections shall align with the general election procedures outlined in Section 9, with eligibility limited to local members as defined in 9.13.1.
 
+### 8.13 Local Branch Committee Elections
+
+Local Branch Committee elections shall follow the same process as any other election, with the following exceptions:
+
+#### 8.13.1 Eligibility
+
+- Candidates for Local Branch Committee positions must be Party members in Good Standing (as defined in Section 10) and must be local residents within the jurisdiction of the respective local branch.
+
+- Eligible voters in Local Branch Committee elections are Party members in Good Standing (as defined in Section 10) who are also local residents within the jurisdiction of the respective local branch.
+
+#### 8.13.2 Nomination and Seconding
+
+- Nominations for Local Branch Committee positions shall be open to local candidates as defined in 9.13.1.
+
+- Candidates for Local Branch Committee positions must be seconded by a Party member in Good Standing (as defined in Section 10) who is also a local resident within the jurisdiction of the respective local branch.
+
+#### 8.13.3 Campaigning and Voting
+
+- The campaigning and voting periods for Local Branch Committee elections shall align with the general election procedures outlined in Section 9, with eligibility limited to local members as defined in 9.13.1.
+
 #### 8.13.4 Oversight
 
 - The Local Branch Committee shall be responsible for organizing and overseeing Local Branch Committee elections within their respective branches, ensuring that the process is conducted in a fair and transparent manner.
@@ -205,9 +228,11 @@ Local Branch Committee elections shall follow the same process as any other elec
 If a member of the Party subsequently joins an organization that the Board declares to be incompatible with membership of the Party, or if the member is found to be a member of such an organization, then the Board may revoke their membership of the Party without return of membership fees.
 
 ### 9.2 Votes of No Confidence
+
 A vote of no confidence in any elected official will be triggered when either 50% or more of the fully paid-up membership or over 50% of the NEC make their desire for a vote of no confidence known to the NEC.
 
 When a vote of no confidence has been triggered, the Board will arrange for a vote of party members to ascertain the confidence of the electorate in the elected official, which will conclude within at most 28 days. The officer will be dismissed if a simple majority of eligible members who take part in that vote, vote in favor of dismissal, subject to a quorum of 10% of eligible members.
+
 
 ### 9.3 Voting Eligibility for Votes of No Confidence
 The eligibility of a member to vote in a particular vote of no confidence will be based on whether that member would be eligible to vote for the elected position as per rules in Section 9.
@@ -228,6 +253,7 @@ In the event of an emergency or an urgent need to replace an officer on the Nati
 
 4. **Notification**: The NEC  shall promptly notify all Party members of the emergency appointment and the reasons for it. The notification should also include the date when a regular election to fill the vacant position will take place. 
 
+
 ### 10.1 Regular Election
 A regular election to fill the vacant officer position shall be held within 30 days of the emergency appointment, as per the standard election procedures outlined in Section 9. The interim officer may choose to stand for election during this process if they wish to continue in the role.
 
@@ -237,7 +263,8 @@ In cases where the Leader's position is vacant, and despite reasonable efforts, 
 In such a case, the Party shall take all necessary steps to initiate the dissolution process. Any remaining Party assets, after settling outstanding obligations, shall be donated to a registered charity.
 
 
-## Section 11: Financial Management
+## Section 12: Financial Management
+
 The financial management of Pirate Party UK shall be governed by the provisions set forth in the Financial Scheme adopted by the Party, in compliance with the Political Parties, Elections and Referendums Act 2000 (the Act).
 
 The role of the Party Treasurer, as defined in the Act and outlined in the Financial Scheme, is to ensure the Party's compliance with the requirements of the Act.
@@ -253,6 +280,7 @@ The Party shall cooperate with any audit requirements imposed by the Commission 
 Any changes to the registered details of the Party, including registered officers, shall be reported to the Commission within the timelines specified in the Financial Scheme.
 
 The Party acknowledges that failure to comply with its legal obligations, as outlined in the Financial Scheme and the Act, may result in civil penalties or criminal offenses.
+
 
  In the event of the termination of the Party Treasurer's appointment, the responsibilities outlined in the Financial Scheme shall be transferred to the Party Leader, Nominating Officer, or another registered officer, as specified in the Financial Scheme.
 
@@ -285,11 +313,13 @@ The NEC may propose and implement amendments to this constitution without the ne
 
 In such cases, the NEC shall have the authority to make and implement the proposed amendments.
 
+
 Emergency amendments shall be clearly communicated to the Party's membership, and a record of the emergency amendment shall be maintained in the official Party records.
 
 
 
 ### Section 13: PARTY MEETINGS
+
 
 #### 13.1 General Meetings
 Pirate Party UK shall hold regular general meetings, as required, to conduct party business, discuss issues, and facilitate member participation.
@@ -322,6 +352,7 @@ General meetings may address a range of party-related matters, including but not
 The agenda for general meetings shall be prepared by the NEC or as specified in the party's internal rules and guidelines.
 
 ### 13.4 Local Branch Meetings
+
 Local branches of Pirate Party UK shall hold regular meetings to discuss regional matters, coordinate local activities, and engage with members in their respective areas.
 
 Local branch meetings may be held in-person or virtually, as determined by the local branch leadership or in accordance with any applicable regulations or restrictions.
@@ -377,11 +408,14 @@ These local branch committee meetings shall serve as a mechanism for local branc
 
 # Section 14: By-Laws
 ### 14.1 Purpose of By-Laws
+
 By-laws serve as supplementary regulations to the party's constitution. They provide additional details, procedures, and guidelines to ensure the effective functioning of the party and its various units, including branches, committees, and working groups.
 
 By-laws are intended to clarify and operationalize the principles and provisions outlined in the party's constitution.
 
+
 ### 14.2 Adoption and Amendment of By-Laws
+
 By-laws may be adopted or amended by a vote of the National Executive Committee (NEC) or by a vote of the party membership, as specified in the party's constitution.
 
 Proposed by-laws or amendments to existing by-laws must be submitted in writing to the NEC or the relevant governing body, and they shall be subject to review and approval in accordance with the procedures outlined in the party's constitution.
@@ -463,17 +497,13 @@ Section 16: Subcommittees and Working Groups
 
 16.3.2. Working Groups, on the other hand, may be created to address particular problems, projects, or goals, and they shall be dissolved upon the completion of their designated task or goal.
 
-16.3.3. The specific objectives, goals, and activities of each Subcommittees and Working Group shall be outlined in their respective charters, which shall be approved by the authorizing entity (Local Branch or NEC) and adhered to by the Subcommittees or Working Group.
+   a. Conducting research and analysis related to their designated policy area.
+   b. Developing and proposing policies and positions for adoption by the party.
+   c. Planning and executing campaigns or initiatives related to their focus area.
+   d. Collaborating with party officials and members to promote their objectives.
+   e. Contributing to the development of the party's election platform.
 
-16.4. Meetings
-
-16.4.1. Subcommittees and Working Groups shall convene regular meetings to facilitate their activities and objectives.
-
-16.4.2. The frequency of Subcommittees and Working Group meetings shall be determined by each Subcommittees and Working Group's leadership but should occur regularly to ensure progress toward their goals.
-
-16.4.3. The timing and type (in-person, virtual, or a combination) of Subcommittees and Working Group meetings shall be established by the Coordinator or Convenor and communicated to Subcommittees and Working Group members in advance.
-
-16.4.4. Quorum for Subcommittees and Working Group meetings shall be defined by the internal rules and guidelines of each Subcommittees and Working Group but should ensure a sufficient level of participation for decision-making.
+2. The specific objectives, goals, and activities of each Working Group shall be outlined in their respective charters, which shall be approved by the authorizing entity (Local Branch or NEC) and adhered to by the Working Group.
 
 16.4.5. Meeting minutes or records shall be maintained for all Subcommittees and Working Group meetings, documenting discussions, decisions, and actions taken during the meetings.
 
@@ -487,11 +517,25 @@ Section 16: Subcommittees and Working Groups
 
 16.6. Collaboration with External Organizations
 
+6. The outcomes and recommendations of Working Group meetings may be presented to the authorizing entity (Local Branch or NEC) for consideration and action, as appropriate.
+
+#### (e) Financial Management
+
+1. Financial management for Working Groups shall be the responsibility of the NEC treasurer.
+
+2. Working Groups are not considered financial autonomous units and do not require separate financial oversight.
+
+3. While Working Groups do not have separate financial autonomy, they are encouraged to actively engage with NEC treasurer for financial planning and reporting purposes. This collaboration ensures transparency and accountability in financial matters related to Working Groups activities.
+
+#### (f) Collaboration with External Organizations
+
 16.6.1. Subcommittees and Working Groups may seek opportunities for collaboration with external organizations, including but not limited to international bodies such as Pirate Parties International (PPI), to further the party's goals and objectives.
 
 16.6.2. Any collaboration with external organizations shall be conducted in accordance with the principles and values of Pirate Party UK and shall be subject to approval by the authorizing entity (Local Branch or NEC).
 
 16.6.3. The results and outcomes of any collaboration with external organizations shall be reported to the authorizing entity (Local Branch or NEC) and may be presented to General Meetings for information and review.
+
+ion shall be subject to approval by a majority vote of the authorizing entity (Local Branch or NEC), with due consideration of the reasons for dissolution presented in the proposal. or by the NEC
 
 16.7. Reporting and Accountability
 
