@@ -328,6 +328,8 @@ General meetings may be held in-person or virtually, as determined by the Nation
 
 Party members in Good Standing, as defined in Section 10, are eligible to attend and participate in general meetings.
 
+all decisions need to be passed by the NEC before coming into effect during the next NEC meeting or the general meeting.
+
 #### 13.2 Quorum
 A quorum for general meetings shall be determined by the NEC and communicated in advance to members.
 
