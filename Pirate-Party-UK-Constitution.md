@@ -326,6 +326,8 @@ Pirate Party UK shall hold regular general meetings, as required, to conduct par
 
 General meetings may be held in-person or virtually, as determined by the National Executive Committee (NEC) or in accordance with any applicable regulations or restrictions.
 
+General meetings should be scheduled no later than 7 days before the meeting, and all members who have opted to be informed will be notified of the meeting.
+
 Party members in Good Standing, as defined in Section 10, are eligible to attend and participate in general meetings.
 
 all decisions need to be passed by the NEC before coming into effect during the next NEC meeting or the general meeting.
