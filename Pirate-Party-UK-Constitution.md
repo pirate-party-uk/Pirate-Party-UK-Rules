@@ -312,9 +312,7 @@ The NEC may propose and implement amendments to this constitution without the ne
 
 2. **Urgent Operational Requirements:** When urgent amendments are required to address critical operational issues that cannot wait for a membership vote.
 
-3. **Reflecting Party Operations:** When amendments are required to reflect changes in how the party is operating, such as organizational structure, decision-making processes, or other operational aspects.
-
-4. **Unanimous Vote of the NEC with Safeguards:** When amendments are of such significance that they require a 100% vote of the NEC to be implemented. In such cases, the following safeguards shall apply:
+3. **Unanimous Vote of the NEC with Safeguards:** When amendments are of such significance that they require a 100% vote of the NEC to be implemented. In such cases, the following safeguards shall apply:
 
    a. The unanimous vote requirement shall only apply to amendments that are deemed of critical importance and significance, and the nature of this significance shall be clearly articulated.
 
@@ -322,11 +320,11 @@ The NEC may propose and implement amendments to this constitution without the ne
 
    c. An open discussion shall be held among NEC members to provide an opportunity for input and discussion of the proposed amendments.
 
-   d. If disagreement from at least 1/3 of  party members occurs during the waiting period of 30 days, the proposed amendments shall not proceed, and further discussion and revisions may be required.
+   d. If disagreement from at least 1/3 of  party members occurs during the waiting period of 15 days, the proposed amendments shall not proceed, and further discussion and revisions may be required.
 
    e. A unanimous vote of the NEC shall be required, signifying complete agreement among NEC members before the amendments can be implemented.
 
-5. **Formatting or Clarification:** When amendments are needed to improve the formatting, wording, or clarification of the constitution without changing its substance.
+4. **Formatting or Clarification:** When amendments are needed to improve the formatting, wording, or clarification of the constitution without changing its substance.
 
 In such cases, the NEC shall have the authority to make and implement the proposed amendments.
 
