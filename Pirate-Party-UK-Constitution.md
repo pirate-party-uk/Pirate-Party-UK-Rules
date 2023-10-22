@@ -320,7 +320,7 @@ The NEC may propose and implement amendments to this constitution without the ne
 
    c. An open discussion shall be held among NEC members to provide an opportunity for input and discussion of the proposed amendments.
 
-   d. If disagreement from at least 1/3 of  party members occurs during the waiting period of 15 days, the proposed amendments shall not proceed, and further discussion and revisions may be required.
+   d. If disagreement from at least 1/3 of  party members in good standing occurs during the waiting period of 15 days, the proposed amendments shall not proceed, and further discussion and revisions may be required.
 
    e. A unanimous vote of the NEC shall be required, signifying complete agreement among NEC members before the amendments can be implemented.
 
