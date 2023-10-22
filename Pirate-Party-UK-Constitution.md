@@ -305,11 +305,28 @@ Party members in Good Standing, as defined in Section 10, shall be eligible to v
 Proposed amendments shall be considered approved if they receive a two-thirds (2/3) majority of the votes cast by eligible members.
 
 #### 12.3 Exception: NEC-Initiated Amendments
+
 The NEC may propose and implement amendments to this constitution without the need for a membership vote in the following exceptional circumstances:
 
-   1. Legal Compliance: When amendments are necessary to ensure compliance with relevant laws and regulations.
+1. **Legal Compliance:** When amendments are necessary to ensure compliance with relevant laws and regulations.
 
-   2. Urgent Operational Requirements: When urgent amendments are required to address critical operational issues that cannot wait for a membership vote.
+2. **Urgent Operational Requirements:** When urgent amendments are required to address critical operational issues that cannot wait for a membership vote.
+
+3. **Reflecting Party Operations:** When amendments are required to reflect changes in how the party is operating, such as organizational structure, decision-making processes, or other operational aspects.
+
+4. **Unanimous Vote of the NEC with Safeguards:** When amendments are of such significance that they require a 100% vote of the NEC to be implemented. In such cases, the following safeguards shall apply:
+
+   a. The unanimous vote requirement shall only apply to amendments that are deemed of critical importance and significance, and the nature of this significance shall be clearly articulated.
+
+   b. The proposed amendments must be thoroughly reviewed, and the rationale for their significance must be clearly documented.
+
+   c. An open discussion shall be held among NEC members to provide an opportunity for input and discussion of the proposed amendments.
+
+   d. If disagreement from at least 1/3 of  party members occurs during the waiting period of 30 days, the proposed amendments shall not proceed, and further discussion and revisions may be required.
+
+   e. A unanimous vote of the NEC shall be required, signifying complete agreement among NEC members before the amendments can be implemented.
+
+5. **Formatting or Clarification:** When amendments are needed to improve the formatting, wording, or clarification of the constitution without changing its substance.
 
 In such cases, the NEC shall have the authority to make and implement the proposed amendments.
 
@@ -385,17 +402,35 @@ Local branches may establish their own by-laws, which shall be consistent with t
 
 
 ### 13.5 NEC Meetings
-The NEC shall hold regular meetings to discuss Party matters, make decisions, and review progress. Meetings may be conducted in person, online, or a combination of both, as determined by the NEC. NEC meetings are typically held on the PPUK Discord server, and the format may include both in-person and virtual attendance. Meetings will be announced no later than 7 days in advance, except in emergency situations, and are aimed to occur every 14 days.
+The National Executive Committee (NEC) convenes meetings to deliberate on party matters, make decisions, and assess progress. These meetings can be conducted in various formats, including in-person, online, or a combination of both, as determined by the NEC. Typically, NEC meetings take place on the PPUK Discord server, allowing for both in-person and virtual attendance. Meeting announcements will be made no later than 7 days prior to the scheduled date, primarily for addressing issues that cannot be resolved through Asynchronous Decision-Making or that are deemed not suitable for Asynchronous Decision-Making, or for emergencies
 
 The Leader or a designated officer shall provide timely notice of the meeting, including the date, time, location (or virtual platform), and agenda. NEC Members may request items to be included in the agenda prior to the meeting. Additionally, NEC members who are unable to attend are expected to provide advance apologies. Other participants may join at the invitation of an NEC member, subject to no objections from other committee NEC members.
  A quorum, defined as a majority of voting NEC members, must be present for the NEC to conduct official business and make decisions. If a quorum is not met, discussions can still take place, but decisions cannot be made.
 
-The NEC shall strive to make decisions through consensus, with each officer on the NEC providing updates regarding their department's activities from the previous week and outlining plans for the upcoming week during meetings. In cases where consensus cannot be reached during meetings, decisions may also be made via email or other electronic means, provided that all voting NEC  members have the opportunity to participate and express their views. If a decision is made via email, it shall be documented in the meeting minutes or records. In cases of email decision-making, a reasonable timeframe shall be set for NEC members to respond, and decisions shall be based on the responses received within that timeframe. In the event of a tie in voting, the Leader shall have the casting vote to break the tie and make the final decision.
+The NEC shall strive to make decisions through consensus. In cases where consensus cannot be reached during meetings, decisions may also be made via email or other electronic means, provided that all voting NEC  members have the opportunity to participate and express their views. If a decision is made via email, it shall be documented in the meeting minutes or records. In cases of email decision-making, a reasonable timeframe shall be set for NEC members to respond, and decisions shall be based on the responses received within that timeframe. In the event of a tie in voting, the Leader shall have the casting vote to break the tie and make the final decision.
 
 Detailed minutes of the meeting or audio recordings shall be taken during NEC meetings to record discussions, decisions, and actions. The minutes or recordings shall be circulated to all NEC members within a reasonable timeframe after the meeting and maintained as official records of the Party. NEC Members are encouraged to review these records after the meeting.
 
+## Section 13.6 - Ongoing Asynchronous Decision-Making
 
-###  13.6 Local Branch Committee Meetings
+1. **Asynchronous Decision-Making**: Ongoing asynchronous decision-making through text chat or other communication methods on a designated Discord channel or other platforms is officially recognized as a valid method for reaching official decisions within the NEC, ensuring that all NEC members have the ability to engage in these communications.
+
+2. **Alternative to Regular Meetings**: Asynchronous decision-making on Discord or other platforms serves as a flexible alternative to traditional in-person or virtual meetings, allowing all NEC members to participate in ongoing discussions and decisions through different communication formats.
+
+3. **Majority NEC Approval**: A decision reached through asynchronous communication on the designated Discord channel or other platforms must obtain the approval of a majority of NEC members, requiring the support of more than half of the members for validation. A quorum for voting must be reached in ongoing asynchronous decision-making to enable broad participation.
+
+4. **Collaborative Decision-Making**: The NEC prioritizes collaborative decision-making on the designated Discord channel or other platforms, allowing each officer on the NEC to provide updates on their department's activities, outline plans for their respective tasks, discuss party matters, make decisions, and review progress through various communication methods, ensuring inclusivity.
+
+5. **Member Check-Ins**: Members are required to provide updates and, if applicable, cast votes at least once a week on the designated Discord channel or other platforms during the ongoing asynchronous decision-making process, using different communication formats, ensuring that all NEC members can engage regularly.
+
+6. **Tie-Breaker**: In the event of a tie in voting on the Discord channel or other platforms, the Leader will have the casting vote to break the tie and make the final decision when necessary, ensuring that all members' voices are considered.
+
+7. **Meeting and Decision Records**: Thorough minutes of decisions made, including discussions, findings, and actions, will be documented on the designated Discord channel or other platforms during ongoing asynchronous decision-making, utilizing various communication methods. These records, whether minutes or recordings, will be distributed within a reasonable timeframe following the meeting or decision-making process, allowing all NEC members to access and review them after the meeting or decision-making process.
+
+
+
+
+###  13.7 Local Branch Committee Meetings
 Local branches of Pirate Party UK shall establish local branch committees responsible for coordinating branch activities and making decisions regarding local matters. These committees shall hold regular meetings to discuss branch affairs, plan events, and engage with branch members.
 
 Local branch committee meetings may be conducted in person, online, or through a combination of both, as determined by the local branch committee. Meetings will be announced to local branch members no later than 7 days in advance, except in emergency situations, and are aimed to occur at regular intervals.
@@ -445,31 +480,28 @@ All adopted by-laws and amendments shall be made readily accessible to party mem
 
 Party members shall have the right to request copies of by-laws and receive information regarding any recent amendments.
 
-## 14.6 Transparency and Accessibility
-All adopted by-laws and amendments shall be made readily accessible to party members through the party's official website or other appropriate means.
 
-Party members shall have the right to request copies of by-laws and receive information regarding any recent amendments.
 
-## 14.7 Compliance with Constitution
+### 14.5 Compliance with Constitution
 The party's constitution is the foundational document that establishes the fundamental principles, structure, and rules governing the party. In all matters, the party's constitution shall hold supreme authority, second only to the law and the financial scheme.
 
 All by-laws, rules, and procedures outlined herein shall be in strict alignment with the provisions and principles set forth in the party's constitution. In the event of any inconsistency or conflict between the constitution and these by-laws, the constitution shall prevail.
 
-## 14.8 Compliance with Financial Scheme
+### 14.8 Compliance with Financial Scheme
 The party's financial scheme outlines the policies and procedures related to the management of party finances. By-laws shall ensure compliance with the party's financial scheme, including procedures and responsibilities for financial reporting, transparency, and accountability, in accordance with legal requirements.
 
-## 14.9 Compliance with Applicable Law
+### 14.7 Compliance with Applicable Law
 In all matters, the Applicable Law shall hold supreme authority. By-laws shall also ensure compliance with applicable laws and regulations. They shall outline the procedures and responsibilities necessary to adhere to legal requirements in all party activities.
 
 
-### 14.10 Review and Revision
+### 14.8 Review and Revision
 By-laws shall be subject to periodic review to ensure their relevance and effectiveness in supporting the party's mission and goals.
 
 The NEC or the relevant governing body shall oversee the review and revision of by-laws, and proposed changes shall be presented for approval in accordance with the procedures outlined in the party's constitution.
 
 Party members are encouraged to provide input and feedback on by-laws to contribute to their improvement and alignment with the party's values and objectives.
 
-### 14.11 Enforceability
+### 14.9 Enforceability
 By-laws are binding on all party members, officers, and units. Failure to comply with by-laws may result in disciplinary action in accordance with the party's constitution and established procedures.
 
 Disputes related to the interpretation or application of by-laws shall be resolved through established party grievance procedures or other appropriate mechanisms as specified in the party's constitution.
@@ -509,19 +541,19 @@ Disputes related to the interpretation or application of by-laws shall be resolv
 
 15.4. The specific objectives, goals, and activities of each Working Group shall be outlined in their respective charters, which shall be approved by the authorizing entity (Local Branch or NEC) and adhered to by the Working Group.
 
-15.. Meeting minutes or records shall be maintained for all Subcommittees and Working Group meetings, documenting discussions, decisions, and actions taken during the meetings.
+15.5. Meeting minutes or records shall be maintained for all Subcommittees and Working Group meetings, documenting discussions, decisions, and actions taken during the meetings.
 
-15.5. Financial Management
+## 15.6. Financial Management
 
-15.5.1. Financial management for Subcommittees and Working Groups shall be the responsibility of the NEC treasurer.
+15.6.1 Financial management for Subcommittees and Working Groups shall be the responsibility of the NEC treasurer.
 
-15.5.2. Subcommittees and Working Groups are not considered financial autonomous units and do not require separate financial oversight.
+15.6.2 Subcommittees and Working Groups are not considered financial autonomous units and do not require separate financial oversight.
 
-15.5.3. While Subcommittees and Working Groups do not have separate financial autonomy, they are encouraged to actively engage with the NEC treasurer for financial planning and reporting purposes. This collaboration ensures transparency and accountability in financial matters related to Subcommittees and Working Groups activities.
+15.6.3 While Subcommittees and Working Groups do not have separate financial autonomy, they are encouraged to actively engage with the NEC treasurer for financial planning and reporting purposes. This collaboration ensures transparency and accountability in financial matters related to Subcommittees and Working Groups activities.
 
-15.6. Collaboration with External Organizations
+### 15.6 Collaboration with External Organizations
 
-15.7. The outcomes and recommendations of Working Group meetings may be presented to the authorizing entity (Local Branch or NEC) for consideration and action, as appropriate.
+15.6 The outcomes and recommendations of Working Group meetings may be presented to the authorizing entity (Local Branch or NEC) for consideration and action, as appropriate.
 
 #### (e) Financial Management
 
@@ -533,28 +565,28 @@ Disputes related to the interpretation or application of by-laws shall be resolv
 
 #### (f) Collaboration with External Organizations
 
-15.6.1. Subcommittees and Working Groups may seek opportunities for collaboration with external organizations, including but not limited to international bodies such as Pirate Parties International (PPI), to further the party's goals and objectives.
+15.6.1 Subcommittees and Working Groups may seek opportunities for collaboration with external organizations, including but not limited to international bodies such as Pirate Parties International (PPI), to further the party's goals and objectives.
 
-15.6.2. Any collaboration with external organizations shall be conducted in accordance with the principles and values of Pirate Party UK and shall be subject to approval by the authorizing entity (Local Branch or NEC).
+15.6.2 Any collaboration with external organizations shall be conducted in accordance with the principles and values of Pirate Party UK and shall be subject to approval by the authorizing entity (Local Branch or NEC).
 
-15.6.3. The results and outcomes of any collaboration with external organizations shall be reported to the authorizing entity (Local Branch or NEC) and may be presented to General Meetings for information and review.
+15.6.3 The results and outcomes of any collaboration with external organizations shall be reported to the authorizing entity (Local Branch or NEC) and may be presented to General Meetings for information and review.
 
 ion shall be subject to approval by a majority vote of the authorizing entity (Local Branch or NEC), with due consideration of the reasons for dissolution presented in the proposal. or by the NEC
 
-15.7. Reporting and Accountability
+### 15.7. Reporting and Accountability
 
-15.7.1. Subcommittees and Working Groups shall provide regular reports on their activities, progress, and recommendations to the authorizing entity (Local Branch or NEC) and, where applicable, to General Meetings or Local Branch meetings of Pirate Party UK.
+15.7.1 Subcommittees and Working Groups shall provide regular reports on their activities, progress, and recommendations to the authorizing entity (Local Branch or NEC) and, where applicable, to General Meetings or Local Branch meetings of Pirate Party UK.
 
-15.7.2. The authorizing entity (Local Branch or NEC) shall oversee the activities of Subcommittees and Working Groups established under their authority to ensure alignment with the party's principles and goals.
+15.7.2 The authorizing entity (Local Branch or NEC) shall oversee the activities of Subcommittees and Working Groups established under their authority to ensure alignment with the party's principles and goals.
 
-15.7.3. Subcommittees and Working Groups shall be accountable to the authorizing entity (Local Branch or NEC) and shall cooperate with other party bodies as necessary to achieve their objectives.
+15.7.3 Subcommittees and Working Groups shall be accountable to the authorizing entity (Local Branch or NEC) and shall cooperate with other party bodies as necessary to achieve their objectives.
 
-15.8. Dissolution
+### 15.8 Dissolution
 
-15.8.1. A Subcommittees or Working Group may be dissolved by a decision of the authorizing entity (Local Branch or NEC) or by the NEC if it is determined that the group no longer serves a useful purpose, if its activities are deemed contrary to the principles and goals of Pirate Party UK, or upon the completion of their designated task or goal.
+15.8.1 A Subcommittees or Working Group may be dissolved by a decision of the authorizing entity (Local Branch or NEC) or by the NEC if it is determined that the group no longer serves a useful purpose, if its activities are deemed contrary to the principles and goals of Pirate Party UK, or upon the completion of their designated task or goal.
 
-15.8.2. A proposal for the dissolution of a Subcommittees or Working Group may be initiated by the authorizing entity (Local Branch or NEC), by the NEC, or by a petition signed by a specified percentage of party members, as determined by the authorizing entity (Local Branch or NEC) or by the NEC.
+15.8.2 A proposal for the dissolution of a Subcommittees or Working Group may be initiated by the authorizing entity (Local Branch or NEC), by the NEC, or by a petition signed by a specified percentage of party members, as determined by the authorizing entity (Local Branch or NEC) or by the NEC.
 
-15.8.3. Dissolution shall be subject to approval by a majority vote of the authorizing entity (Local Branch or NEC), with due consideration of the reasons for dissolution presented in the proposal. or by the NEC.
+15.8.3 Dissolution shall be subject to approval by a majority vote of the authorizing entity (Local Branch or NEC), with due consideration of the reasons for dissolution presented in the proposal. or by the NEC.
 
 
