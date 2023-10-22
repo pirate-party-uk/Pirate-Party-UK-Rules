@@ -409,7 +409,7 @@ The NEC shall strive to make decisions through consensus. In cases where consens
 
 Detailed minutes of the meeting or audio recordings shall be taken during NEC meetings to record discussions, decisions, and actions. The minutes or recordings shall be circulated to all NEC members within a reasonable timeframe after the meeting and maintained as official records of the Party. NEC Members are encouraged to review these records after the meeting.
 
-## Section 13.6 - Ongoing Asynchronous Decision-Making
+### Section 13.6 - Ongoing Asynchronous Decision-Making
 
 1. **Asynchronous Decision-Making**: Ongoing asynchronous decision-making through text chat or other communication methods on a designated Discord channel or other platforms is officially recognized as a valid method for reaching official decisions within the NEC, ensuring that all NEC members have the ability to engage in these communications.
 
