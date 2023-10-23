@@ -312,17 +312,15 @@ The NEC may propose and implement amendments to this constitution without the ne
 
 2. **Urgent Operational Requirements:** When urgent amendments are required to address critical operational issues that cannot wait for a membership vote.
 
-3. **Unanimous Vote of the NEC with Safeguards:** When amendments are of such significance that they require a 100% vote of the NEC to be implemented. In such cases, the following safeguards shall apply:
+3. **Unanimous Vote of the NEC with Safeguards:** When amendments by NEC has 100% vote of the NEC in faver to be implemented. In such cases, the following safeguards shall apply:
 
-   a. The unanimous vote requirement shall only apply to amendments that are deemed of critical importance and significance, and the nature of this significance shall be clearly articulated.
+   a. The proposed amendments must undergo a comprehensive review and must be meticulously documented.
 
-   b. The proposed amendments must be thoroughly reviewed, and the rationale for their significance must be clearly documented.
+   b. An open discussion will be conducted among NEC members to allow for input and thorough deliberation on the proposed amendments.
 
-   c. An open discussion shall be held among NEC members to provide an opportunity for input and discussion of the proposed amendments.
+   c. If at least 20% of party members in good standing express disagreement during a 15-day waiting period, the proposed amendments will not advance, necessitating further discussion and potential revisions.
 
-   d. If disagreement from at least 1/3 of  party members in good standing occurs during the waiting period of 15 days, the proposed amendments shall not proceed, and further discussion and revisions may be required.
-
-   e. A unanimous vote of the NEC shall be required, signifying complete agreement among NEC members before the amendments can be implemented.
+   d. Complete agreement among all NEC members, as demonstrated by a unanimous vote, is required before the amendments can be officially implemented.
 
 4. **Formatting or Clarification:** When amendments are needed to improve the formatting, wording, or clarification of the constitution without changing its substance.
 
