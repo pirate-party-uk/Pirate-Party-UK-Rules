@@ -5,8 +5,8 @@
 ### Section 1: Purpose and Intent
 
 - The UK Pirate Party, hereinafter referred to as "the Party," recognizes the importance of international cooperation and affiliation within the global Pirate Movement.
-- The Party acknowledges the statutes of Pirate Parties International (PPI) and wishes to align itself with the principles, objectives, and regulations set forth in the PPI statutes.
-- The Party hereby adopts the PPI statutes for the purpose of establishing an Observer Membership status within PPI.
+- The Party acknowledges the statutes of Pirate Parties International (PPI) and wishes to align itself with the principles, objectives, and regulations set forth in the PPI statutes and there bylaws.
+- The Party hereby adopts the PPI statutes and there bylaws for the purpose of establishing an Observer Membership status within PPI.
 
 ### Section 2: Observer Membership
 
