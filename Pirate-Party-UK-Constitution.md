@@ -271,7 +271,7 @@ By-laws are additional rules that support the party's constitution. They provide
 
 ### **15.2 Adoption and Amendment of By-Laws**
 
-By-laws can be created or changed by a vote of the National Executive Committee (NEC) or the party membership, as stated in the party's constitution. Proposed changes must be written down and reviewed before being approved. A clear majority vote is needed to adopt or amend by-laws.
+By-laws can be created or changed by a vote of the National Executive Committee (NEC) limited. by the constitution or delegated by bylaws.
 
 ###  **15.3 Types of By-Laws**
 
